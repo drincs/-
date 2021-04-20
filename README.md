@@ -46,7 +46,7 @@
 1043	|	Is It a Binary Search Tree	|	25	|	11898	|	33583	|	0.35	|	
 1044	|	Shopping in Mars	|	25	|	9980	|	32908	|	0.3	|	
 1045	|	Favorite Color Stripe	|	30	|	9356	|	25310	|	0.37	|	
-1046	|	Shortest Distance	|	20	|	13323	|	45172	|	0.29	|	
+1046	|	Shortest Distance	|	20	|	13323	|	45172	|	0.29	|	√ 简单模拟
 1047	|	Student List for Course	|	25	|	10773	|	39267	|	0.27	|	
 1048	|	Find Coins	|	25	|	14820	|	48482	|	0.31	|	
 1049	|	Counting Ones	|	30	|	7100	|	18682	|	0.38	|	
