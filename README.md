@@ -65,7 +65,7 @@
 1062	|	Talent and Virtue	|	25	|	9256	|	26056	|	0.36	|	
 1063	|	Set Similarity	|	25	|	10346	|	26036	|	0.4	|	
 1064	|	Complete Binary Search Tree	|	30	|	9410	|	15979	|	0.59	|	
-1065	|	A+B and C (64bit)	|	20	|	15195	|	57923	|	0.26	|	
+1065	|	A+B and C (64bit)	|	20	|	15195	|	57923	|	0.26	|	√ 简单模拟
 1066	|	Root of AVL Tree	|	25	|	9212	|	21235	|	0.43	|	
 1067	|	Sort with Swap(0, i)	|	25	|	9139	|	33519	|	0.27	|	
 1068	|	Find More Coins	|	30	|	6054	|	23064	|	0.26	|	
