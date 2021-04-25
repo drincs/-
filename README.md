@@ -9,7 +9,7 @@
 1006	|	Sign In and Sign Out	|	25	|	20481	|	44813	|	0.46	|	
 1007	|	Maximum Subsequence Sum	|	25	|	18145	|	94400	|	0.19	|	
 1008	|	Elevator	|	20	|	16694	|	28027	|	0.6	|	
-1009	|	Product of Polynomials	|	25	|	18950	|	66230	|	0.29	|	
+1009	|	Product of Polynomials	|	25	|	18950	|	66230	|	0.29	|	√ 简单模拟
 1010	|	Radix	|	25	|	16082	|	140876	|	0.11	|	
 1011	|	World Cup Betting	|	20	|	17407	|	32452	|	0.54	|	
 1012	|	The Best Rank	|	25	|	16945	|	65510	|	0.26	|	
