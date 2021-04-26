@@ -6,7 +6,7 @@
 1003	|	Emergency	|	25	|	28995	|	100078	|	0.29	|	
 1004	|	Counting Leaves	|	30	|	20043	|	57223	|	0.35	|	
 1005	|	Spell It Right	|	20	|	20716	|	59158	|	0.35	|	
-1006	|	Sign In and Sign Out	|	25	|	20481	|	44813	|	0.46	|	
+1006	|	Sign In and Sign Out	|	25	|	20481	|	44813	|	0.46	|	√ 查找元素
 1007	|	Maximum Subsequence Sum	|	25	|	18145	|	94400	|	0.19	|	
 1008	|	Elevator	|	20	|	16694	|	28027	|	0.6	|	
 1009	|	Product of Polynomials	|	25	|	18950	|	66230	|	0.29	|	√ 简单模拟
@@ -36,7 +36,7 @@
 1033	|	To Fill or Not to Fill	|	25	|	9307	|	31486	|	0.3	|	
 1034	|	Head of a Gang	|	30	|	13459	|	43920	|	0.31	|	
 1035	|	Password	|	20	|	11663	|	38049	|	0.31	|	
-1036	|	Boys vs Girls	|	25	|	12115	|	27991	|	0.43	|	
+1036	|	Boys vs Girls	|	25	|	12115	|	27991	|	0.43	|	√ 查找元素
 1037	|	Magic Coupon	|	25	|	9829	|	25484	|	0.39	|	
 1038	|	Recover the Smallest Number	|	30	|	9839	|	31068	|	0.32	|	
 1039	|	Course List for Student	|	25	|	13303	|	41298	|	0.32	|	
