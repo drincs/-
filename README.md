@@ -19,7 +19,7 @@
 1016	|	Phone Bills	|	25	|	10878	|	49020	|	0.22	|	
 1017	|	Queueing at Bank	|	25	|	8390	|	33640	|	0.25	|	
 1018	|	Public Bike Management	|	30	|	11990	|	48158	|	0.25	|	
-1019	|	General Palindromic Number	|	20	|	14114	|	38742	|	0.36	|	
+1019	|	General Palindromic Number	|	20	|	14114	|	38742	|	0.36	|	√ 进制转换
 1020	|	Tree Traversals	|	25	|	17904	|	37608	|	0.48	|	
 1021	|	Deepest Root	|	25	|	12853	|	47688	|	0.27	|	
 1022	|	Digital Library	|	30	|	11594	|	36262	|	0.32	|	
@@ -27,7 +27,7 @@
 1024	|	Palindromic Number	|	25	|	10148	|	34570	|	0.29	|	
 1025	|	PAT Ranking	|	25	|	18030	|	65164	|	0.28	|	
 1026	|	Table Tennis	|	30	|	4806	|	28754	|	0.17	|	
-1027	|	Colors in Mars	|	20	|	12695	|	25690	|	0.49	|	
+1027	|	Colors in Mars	|	20	|	12695	|	25690	|	0.49	|	√ 进制转换
 1028	|	List Sorting	|	25	|	11900	|	34105	|	0.35	|	
 1029	|	Median	|	25	|	12039	|	73811	|	0.16	|	
 1030	|	Travel Plan	|	30	|	14892	|	33872	|	0.44	|	
@@ -58,7 +58,7 @@
 1055	|	The World's Richest	|	25	|	12894	|	52832	|	0.24	|	
 1056	|	Mice and Rice	|	25	|	8093	|	16954	|	0.48	|	
 1057	|	Stack	|	30	|	6916	|	25797	|	0.27	|	
-1058	|	A+B in Hogwarts	|	20	|	10641	|	25155	|	0.42	|	
+1058	|	A+B in Hogwarts	|	20	|	10641	|	25155	|	0.42	|	√ 进制转换
 1059	|	Prime Factors	|	25	|	12472	|	38383	|	0.32	|	
 1060	|	Are They Equal	|	25	|	9894	|	46320	|	0.21	|	
 1061	|	Dating	|	20	|	8775	|	37958	|	0.23	|	
