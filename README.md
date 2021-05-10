@@ -62,7 +62,7 @@
 1059	|	Prime Factors	|	25	|	12472	|	38383	|	0.32	|	
 1060	|	Are They Equal	|	25	|	9894	|	46320	|	0.21	|	
 1061	|	Dating	|	20	|	8775	|	37958	|	0.23	|	√ 字符串处理
-1062	|	Talent and Virtue	|	25	|	9256	|	26056	|	0.36	|	
+1062	|	Talent and Virtue	|	25	|	9256	|	26056	|	0.36	|	√ 排序
 1063	|	Set Similarity	|	25	|	10346	|	26036	|	0.4	|	
 1064	|	Complete Binary Search Tree	|	30	|	9410	|	15979	|	0.59	|	
 1065	|	A+B and C (64bit)	|	20	|	15195	|	57923	|	0.26	|	√ 简单模拟
@@ -77,12 +77,12 @@
 1074	|	Reversing Linked List	|	25	|	8631	|	30006	|	0.29	|	
 1075	|	PAT Judge	|	25	|	8700	|	42543	|	0.2	|	
 1076	|	Forwards on Weibo	|	30	|	11637	|	31091	|	0.37	|	
-1077	|	Kuchiguse	|	20	|	10515	|	47245	|	0.22	|	
+1077	|	Kuchiguse	|	20	|	10515	|	47245	|	0.22	|	√ 字符串处理
 1078	|	Hashing	|	25	|	9081	|	37171	|	0.24	|	
 1079	|	Total Sales of Supply Chain	|	25	|	9522	|	24198	|	0.39	|	
 1080	|	Graduate Admission	|	30	|	8257	|	34468	|	0.24	|	
 1081	|	Rational Sum	|	20	|	8629	|	29282	|	0.29	|	
-1082	|	Read Number in Chinese	|	25	|	7847	|	30198	|	0.26	|	
+1082	|	Read Number in Chinese	|	25	|	7847	|	30198	|	0.26	|	√ 字符串处理
 1083	|	List Grades	|	25	|	8002	|	15314	|	0.52	|	
 1084	|	Broken Keyboard	|	20	|	8989	|	20573	|	0.44	|	
 1085	|	Perfect Sequence	|	25	|	11392	|	42889	|	0.27	|	
