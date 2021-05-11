@@ -12,7 +12,7 @@
 1009	|	Product of Polynomials	|	25	|	18950	|	66230	|	0.29	|	√ 简单模拟
 1010	|	Radix	|	25	|	16082	|	140876	|	0.11	|	√ 查找元素
 1011	|	World Cup Betting	|	20	|	17407	|	32452	|	0.54	|	
-1012	|	The Best Rank	|	25	|	16945	|	65510	|	0.26	|	
+1012	|	The Best Rank	|	25	|	16945	|	65510	|	0.26	|	√ 排序
 1013	|	Battle Over Cities	|	25	|	19026	|	58634	|	0.32	|	
 1014	|	Waiting in Line	|	30	|	9028	|	41881	|	0.22	|	
 1015	|	Reversible Primes	|	20	|	14530	|	54861	|	0.26	|	
