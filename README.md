@@ -16,7 +16,7 @@
 1013	|	Battle Over Cities	|	25	|	19026	|	58634	|	0.32	|	
 1014	|	Waiting in Line	|	30	|	9028	|	41881	|	0.22	|	
 1015	|	Reversible Primes	|	20	|	14530	|	54861	|	0.26	|	
-1016	|	Phone Bills	|	25	|	10878	|	49020	|	0.22	|	
+1016	|	Phone Bills	|	25	|	10878	|	49020	|	0.22	|	√ 排序
 1017	|	Queueing at Bank	|	25	|	8390	|	33640	|	0.25	|	
 1018	|	Public Bike Management	|	30	|	11990	|	48158	|	0.25	|	
 1019	|	General Palindromic Number	|	20	|	14114	|	38742	|	0.36	|	√ 进制转换
