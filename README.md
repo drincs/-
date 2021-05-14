@@ -75,12 +75,12 @@
 1072	|	Gas Station	|	30	|	9018	|	37996	|	0.24	|	
 1073	|	Scientific Notation	|	20	|	8085	|	23634	|	0.34	|	
 1074	|	Reversing Linked List	|	25	|	8631	|	30006	|	0.29	|	
-1075	|	PAT Judge	|	25	|	8700	|	42543	|	0.2	|	
+1075	|	PAT Judge	|	25	|	8700	|	42543	|	0.2	|	√ 排序
 1076	|	Forwards on Weibo	|	30	|	11637	|	31091	|	0.37	|	
 1077	|	Kuchiguse	|	20	|	10515	|	47245	|	0.22	|	√ 字符串处理
 1078	|	Hashing	|	25	|	9081	|	37171	|	0.24	|	
 1079	|	Total Sales of Supply Chain	|	25	|	9522	|	24198	|	0.39	|	
-1080	|	Graduate Admission	|	30	|	8257	|	34468	|	0.24	|	
+1080	|	Graduate Admission	|	30	|	8257	|	34468	|	0.24	|	√ 排序
 1081	|	Rational Sum	|	20	|	8629	|	29282	|	0.29	|	
 1082	|	Read Number in Chinese	|	25	|	7847	|	30198	|	0.26	|	√ 字符串处理
 1083	|	List Grades	|	25	|	8002	|	15314	|	0.52	|	
