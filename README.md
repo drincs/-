@@ -25,7 +25,7 @@
 1022	|	Digital Library	|	30	|	11594	|	36262	|	0.32	|	
 1023	|	Have Fun with Numbers	|	20	|	11286	|	35771	|	0.32	|	
 1024	|	Palindromic Number	|	25	|	10148	|	34570	|	0.29	|	
-1025	|	PAT Ranking	|	25	|	18030	|	65164	|	0.28	|	
+1025	|	PAT Ranking	|	25	|	18030	|	65164	|	0.28	|	√ 排序
 1026	|	Table Tennis	|	30	|	4806	|	28754	|	0.17	|	
 1027	|	Colors in Mars	|	20	|	12695	|	25690	|	0.49	|	√ 进制转换
 1028	|	List Sorting	|	25	|	11900	|	34105	|	0.35	|	
