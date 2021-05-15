@@ -81,7 +81,6 @@
 1078	|	Hashing	|	25	|	9081	|	37171	|	0.24	|	
 1079	|	Total Sales of Supply Chain	|	25	|	9522	|	24198	|	0.39	|	
 1080	|	Graduate Admission	|	30	|	8257	|	34468	|	0.24	|	√ 排序
-
 1081	|	Rational Sum	|	20	|	8629	|	29282	|	0.29	|	
 1082	|	Read Number in Chinese	|	25	|	7847	|	30198	|	0.26	|	√ 字符串处理
 1083	|	List Grades	|	25	|	8002	|	15314	|	0.52	|	
