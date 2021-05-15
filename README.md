@@ -41,7 +41,7 @@
 1038	|	Recover the Smallest Number	|	30	|	9839	|	31068	|	0.32	|	
 1039	|	Course List for Student	|	25	|	13303	|	41298	|	0.32	|	
 1040	|	Longest Symmetric String	|	25	|	9076	|	27851	|	0.33	|	
-1041	|	Be Unique	|	20	|	10706	|	24887	|	0.43	|	
+1041	|	Be Unique	|	20	|	10706	|	24887	|	0.43	|	√ 散列
 1042	|	Shuffling Machine	|	20	|	13748	|	32865	|	0.42	|	√ 简单模拟
 1043	|	Is It a Binary Search Tree	|	25	|	11898	|	33583	|	0.35	|	
 1044	|	Shopping in Mars	|	25	|	9980	|	32908	|	0.3	|	
@@ -81,10 +81,11 @@
 1078	|	Hashing	|	25	|	9081	|	37171	|	0.24	|	
 1079	|	Total Sales of Supply Chain	|	25	|	9522	|	24198	|	0.39	|	
 1080	|	Graduate Admission	|	30	|	8257	|	34468	|	0.24	|	√ 排序
+
 1081	|	Rational Sum	|	20	|	8629	|	29282	|	0.29	|	
 1082	|	Read Number in Chinese	|	25	|	7847	|	30198	|	0.26	|	√ 字符串处理
 1083	|	List Grades	|	25	|	8002	|	15314	|	0.52	|	
-1084	|	Broken Keyboard	|	20	|	8989	|	20573	|	0.44	|	
+1084	|	Broken Keyboard	|	20	|	8989	|	20573	|	0.44	|	√ 散列
 1085	|	Perfect Sequence	|	25	|	11392	|	42889	|	0.27	|	
 1086	|	Tree Traversals Again	|	25	|	10433	|	23497	|	0.44	|	
 1087	|	All Roads Lead to Rome	|	30	|	9136	|	25760	|	0.35	|	
@@ -92,10 +93,10 @@
 1089	|	Insert or Merge	|	25	|	8040	|	28736	|	0.28	|	
 1090	|	Highest Price in Supply Chain	|	25	|	8889	|	22001	|	0.4	|	
 1091	|	Acute Stroke	|	30	|	8851	|	27464	|	0.32	|	
-1092	|	To Buy or Not to Buy	|	20	|	8315	|	14711	|	0.57	|	
+1092	|	To Buy or Not to Buy	|	20	|	8315	|	14711	|	0.57	|	√ 散列
 1093	|	Count PAT's	|	25	|	9317	|	27117	|	0.34	|	
 1094	|	The Largest Generation	|	25	|	9244	|	16540	|	0.56	|	
-1095	|	Cars on Campus	|	30	|	7808	|	30834	|	0.25	|	
+1095	|	Cars on Campus	|	30	|	7808	|	30834	|	0.25	|	√ 排序
 1096	|	Consecutive Factors	|	20	|	8524	|	35548	|	0.24	|	
 1097	|	Deduplication on a Linked List	|	25	|	8689	|	26528	|	0.33	|	
 1098	|	Insertion or Heap Sort	|	25	|	8464	|	25767	|	0.33	|	
