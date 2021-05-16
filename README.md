@@ -33,11 +33,11 @@
 1030	|	Travel Plan	|	30	|	14892	|	33872	|	0.44	|	
 1031	|	Hello World for U	|	20	|	12295	|	31417	|	0.39	|	√ 图形输出
 1032	|	Sharing	|	25	|	13574	|	49795	|	0.27	|	
-1033	|	To Fill or Not to Fill	|	25	|	9307	|	31486	|	0.3	|	
+1033	|	To Fill or Not to Fill	|	25	|	9307	|	31486	|	0.3	|	√ 贪心
 1034	|	Head of a Gang	|	30	|	13459	|	43920	|	0.31	|	
 1035	|	Password	|	20	|	11663	|	38049	|	0.31	|	√ 字符串处理
 1036	|	Boys vs Girls	|	25	|	12115	|	27991	|	0.43	|	√ 查找元素
-1037	|	Magic Coupon	|	25	|	9829	|	25484	|	0.39	|	
+1037	|	Magic Coupon	|	25	|	9829	|	25484	|	0.39	|	√ 贪心
 1038	|	Recover the Smallest Number	|	30	|	9839	|	31068	|	0.32	|	
 1039	|	Course List for Student	|	25	|	13303	|	41298	|	0.32	|	
 1040	|	Longest Symmetric String	|	25	|	9076	|	27851	|	0.33	|	
@@ -48,9 +48,9 @@
 1045	|	Favorite Color Stripe	|	30	|	9356	|	25310	|	0.37	|	
 1046	|	Shortest Distance	|	20	|	13323	|	45172	|	0.29	|	√ 简单模拟
 1047	|	Student List for Course	|	25	|	10773	|	39267	|	0.27	|	
-1048	|	Find Coins	|	25	|	14820	|	48482	|	0.31	|	
+1048	|	Find Coins	|	25	|	14820	|	48482	|	0.31	|	√ 散列
 1049	|	Counting Ones	|	30	|	7100	|	18682	|	0.38	|	
-1050	|	String Subtraction	|	20	|	11332	|	25852	|	0.44	|	
+1050	|	String Subtraction	|	20	|	11332	|	25852	|	0.44	|	√ 散列
 1051	|	Pop Sequence	|	25	|	11828	|	24913	|	0.47	|	
 1052	|	Linked List Sorting	|	25	|	12128	|	56162	|	0.22	|	
 1053	|	Path of Equal Weight	|	30	|	13123	|	29199	|	0.45	|	
@@ -67,10 +67,10 @@
 1064	|	Complete Binary Search Tree	|	30	|	9410	|	15979	|	0.59	|	
 1065	|	A+B and C (64bit)	|	20	|	15195	|	57923	|	0.26	|	√ 简单模拟
 1066	|	Root of AVL Tree	|	25	|	9212	|	21235	|	0.43	|	
-1067	|	Sort with Swap(0, i)	|	25	|	9139	|	33519	|	0.27	|	
+1067	|	Sort with Swap(0, i)	|	25	|	9139	|	33519	|	0.27	|	√ 贪心
 1068	|	Find More Coins	|	30	|	6054	|	23064	|	0.26	|	
 1069	|	The Black Hole of Numbers	|	20	|	9051	|	29205	|	0.31	|	
-1070	|	Mooncake	|	25	|	7489	|	21683	|	0.35	|	
+1070	|	Mooncake	|	25	|	7489	|	21683	|	0.35	|	√ 贪心
 1071	|	Speech Patterns	|	25	|	9739	|	27478	|	0.35	|	
 1072	|	Gas Station	|	30	|	9018	|	37996	|	0.24	|	
 1073	|	Scientific Notation	|	20	|	8085	|	23634	|	0.34	|	
