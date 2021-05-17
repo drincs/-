@@ -38,7 +38,7 @@
 1035	|	Password	|	20	|	11663	|	38049	|	0.31	|	√ 字符串处理
 1036	|	Boys vs Girls	|	25	|	12115	|	27991	|	0.43	|	√ 查找元素
 1037	|	Magic Coupon	|	25	|	9829	|	25484	|	0.39	|	√ 贪心
-1038	|	Recover the Smallest Number	|	30	|	9839	|	31068	|	0.32	|	
+1038	|	Recover the Smallest Number	|	30	|	9839	|	31068	|	0.32	|	√ 贪心
 1039	|	Course List for Student	|	25	|	13303	|	41298	|	0.32	|	
 1040	|	Longest Symmetric String	|	25	|	9076	|	27851	|	0.33	|	
 1041	|	Be Unique	|	20	|	10706	|	24887	|	0.43	|	√ 散列
