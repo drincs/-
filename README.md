@@ -1,4 +1,15 @@
 # 百日计划
+<p>时间：from 2021.04.20</p>
+<div class="container">
+  <div class="skills css">27%</div>
+</div>
+
+<div class="progress">
+  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 45%">
+    <span class="sr-only">23.87% Complete</span>
+  </div>
+</div>
+
 标号 |	标题 |	分数 |	通过数 |	提交数 |	通过率|完成情况
 :-----------|:-----------|:-----------|:-----------|:-----------|:-----------|:-----------
 1001	|	A+B Format	|	20	|	39651	|	155031	|	0.26	|	√ 字符串处理
@@ -156,3 +167,26 @@
 1153	|	Decode Registration Card of PAT	|	25	|	8154	|	38307	|	0.21	|	
 1154	|	Vertex Coloring	|	25	|	7796	|	20968	|	0.37	|	
 1155	|	Heap Paths	|	30	|	8114	|	17166	|	0.47	|	
+
+
+<style>
+* {box-sizing: border-box}
+ 
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+ 
+.skills {
+  text-align: right;
+  padding-right: 20px;
+  line-height: 40px;
+  color: white;
+}
+'''这个是进度条
+.html {width: 90%; background-color: #4CAF50;}
+.css {width: 80%; background-color: #2196F3;}
+.js {width: 65%; background-color: #f44336;}
+.php {width: 60%; background-color: #808080;}
+'''
+</style>
