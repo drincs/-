@@ -11,7 +11,7 @@
 1007	|	Maximum Subsequence Sum	|	25	|	18145	|	94400	|	0.19	|	
 1008	|	Elevator	|	20	|	16694	|	28027	|	0.6	|	
 [1009](./PAT-Advanced/简单模拟/1009%20Product%20of%20Polynomials%20(25%20分)/README.md) |	Product of Polynomials	|	25	|	18950	|	66230	|	0.29	|	√ 简单模拟
-1010  |	Radix	|	25	|	16082	|	140876	|	0.11	|	
+[1010](./PAT-Advanced/二分/1010~Radix~(25~分)/README.md) |	Radix	|	25	|	16082	|	140876	|	0.11	|	√ 二分
 [1011](./PAT-Advanced/查找元素/1011%20World%20Cup%20Betting%20(20%20分)/README.md) 	|	World Cup Betting	|	20	|	17407	|	32452	|	0.54	|	√ 查找元素
 [1012](./PAT-Advanced/排序/1012%20The%20Best%20Rank%20(25%20分)/README.md) |	The Best Rank	|	25	|	16945	|	65510	|	0.26	|	√ 排序
 1013	|	Battle Over Cities	|	25	|	19026	|	58634	|	0.32	|	
@@ -86,7 +86,7 @@
 [1082](./PAT-Advanced/字符串处理/1082%20Read%20Number%20in%20Chinese%20(25%20分)/README.md)	|	Read Number in Chinese	|	25	|	7847	|	30198	|	0.26	|	√ 字符串处理
 [1083](./PAT-Advanced/排序/1083%20List%20Grades%20(25%20分)/README.md) |	List Grades	|	25	|	8002	|	15314	|	0.52	|	√ 排序
 [1084](./PAT-Advanced/散列/1084%20Broken%20Keyboard%20(20%20分)/README.md)|	Broken Keyboard	|	20	|	8989	|	20573	|	0.44	|	√ 散列
-1085	|	Perfect Sequence	|	25	|	11392	|	42889	|	0.27	|	
+[1085](./PAT-Advanced/散列/1085~Perfect~Sequence~(25~分)/README.md)	|	Perfect Sequence	|	25	|	11392	|	42889	|	0.27	|	√ 二分
 1086	|	Tree Traversals Again	|	25	|	10433	|	23497	|	0.44	|	
 1087	|	All Roads Lead to Rome	|	30	|	9136	|	25760	|	0.35	|	
 1088	|	Rational Arithmetic	|	20	|	7054	|	22784	|	0.31	|	
