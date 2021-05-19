@@ -45,7 +45,7 @@
 [1041](./PAT-Advanced/散列/1041%20Be%20Unique%20(20%20分)/README.md)|	Be Unique	|	20	|	10706	|	24887	|	0.43	|	√ 散列
 [1042](./PAT-Advanced/简单模拟/1042%20Shuffling%20Machine%20(20%20分)/README.md)	|	Shuffling Machine	|	20	|	13748	|	32865	|	0.42	|	√ 简单模拟
 1043	|	Is It a Binary Search Tree	|	25	|	11898	|	33583	|	0.35	|	
-1044	|	Shopping in Mars	|	25	|	9980	|	32908	|	0.3	|	
+[1044](./PAT-Advanced/二分/1044%20Shopping%20in%20Mars%20(25%20分)/README.md) |	Shopping in Mars	|	25	|	9980	|	32908	|	0.3	|	√ 二分
 1045	|	Favorite Color Stripe	|	30	|	9356	|	25310	|	0.37	|	
 [1046](./PAT-Advanced/简单模拟/1046%20Shortest%20Distance%20(20%20分)/README.md)	|	Shortest Distance	|	20	|	13323	|	45172	|	0.29	|	√ 简单模拟
 1047	|	Student List for Course	|	25	|	10773	|	39267	|	0.27	|	
@@ -90,7 +90,7 @@
 1086	|	Tree Traversals Again	|	25	|	10433	|	23497	|	0.44	|	
 1087	|	All Roads Lead to Rome	|	30	|	9136	|	25760	|	0.35	|	
 1088	|	Rational Arithmetic	|	20	|	7054	|	22784	|	0.31	|	
-1089	|	Insert or Merge	|	25	|	8040	|	28736	|	0.28	|	
+[1089](./PAT-Advanced/Two%20Pointers/1089%20Insert%20or%20Merge%20(25%20分)/README.md) |	Insert or Merge	|	25	|	8040	|	28736	|	0.28	|	√ Two Pointers
 1090	|	Highest Price in Supply Chain	|	25	|	8889	|	22001	|	0.4	|	
 1091	|	Acute Stroke	|	30	|	8851	|	27464	|	0.32	|	
 [1092](./PAT-Advanced/散列/1092%20To%20Buy%20or%20Not%20to%20Buy%20(20%20分)/README.md)|	To Buy or Not to Buy	|	20	|	8315	|	14711	|	0.57	|	√ 散列
