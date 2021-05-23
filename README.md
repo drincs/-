@@ -30,7 +30,7 @@
 1026	|	Table Tennis	|	30	|	4806	|	28754	|	0.17	|	
 [1027](./PAT-Advanced/进制转换/1027%20Colors%20in%20Mars%20(20%20分)/README.md)	|	Colors in Mars	|	20	|	12695	|	25690	|	0.49	|	√ 进制转换
 [1028](./PAT-Advanced/排序/1028%20List%20Sorting%20(25%20分)/README.md) |	List Sorting	|	25	|	11900	|	34105	|	0.35	|	√ 排序
-1029	|	Median	|	25	|	12039	|	73811	|	0.16	|	
+[1029](./PAT-Advanced/Two%20Pointers/1029%20Median%20(25%20分)/README.md)	|	Median	|	25	|	12039	|	73811	|	0.16	|	√ Two Pointers
 1030	|	Travel Plan	|	30	|	14892	|	33872	|	0.44	|	
 [1031](./PAT-Advanced/图形输出/1031%20Hello%20World%20for%20U%20(20%20分)/README.md)	|	Hello World for U	|	20	|	12295	|	31417	|	0.39	|	√ 图形输出
 1032	|	Sharing	|	25	|	13574	|	49795	|	0.27	|	
@@ -94,7 +94,7 @@
 1090	|	Highest Price in Supply Chain	|	25	|	8889	|	22001	|	0.4	|	
 1091	|	Acute Stroke	|	30	|	8851	|	27464	|	0.32	|	
 [1092](./PAT-Advanced/散列/1092%20To%20Buy%20or%20Not%20to%20Buy%20(20%20分)/README.md)|	To Buy or Not to Buy	|	20	|	8315	|	14711	|	0.57	|	√ 散列
-1093	|	Count PAT's	|	25	|	9317	|	27117	|	0.34	|	
+[1093](./PAT-Advanced/其他高效技巧与算法/1093%20Count%20PAT's%20(25%20分)/README.md)	|	Count PAT's	|	25	|	9317	|	27117	|	0.34	|	√ 其他高效技巧与算法
 1094	|	The Largest Generation	|	25	|	9244	|	16540	|	0.56	|	
 [1095](./PAT-Advanced/排序/1095%20Cars%20on%20Campus%20(30%20分)/README.md)	|	Cars on Campus	|	30	|	7808	|	30834	|	0.25	|	√ 排序
 1096	|	Consecutive Factors	|	20	|	8524	|	35548	|	0.24	|	
@@ -102,7 +102,7 @@
 1098	|	Insertion or Heap Sort	|	25	|	8464	|	25767	|	0.33	|	
 1099	|	Build A Binary Search Tree	|	30	|	9464	|	16705	|	0.57	|	
 1100	|	Mars Numbers	|	20	|	8659	|	29397	|	0.29	|	
-1101	|	Quick Sort	|	25	|	9347	|	42191	|	0.22	|	
+[1101](./PAT-Advanced/其他高效技巧与算法/1101%20Quick%20Sort%20(25%20分)/README.md)	|	Quick Sort	|	25	|	9347	|	42191	|	0.22	|	√ 其他高效技巧与算法
 1102	|	Invert a Binary Tree	|	25	|	10619	|	20202	|	0.53	|	
 1103	|	Integer Factorization	|	30	|	13738	|	47539	|	0.29	|	
 1104	|	Sum of Number Segments	|	20	|	9772	|	41726	|	0.23	|	
