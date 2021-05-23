@@ -9,7 +9,7 @@
 [1005](./PAT-Advanced/字符串处理/1005%20Spell%20It%20Right%20(20%20分)/README.md)	|	Spell It Right	|	20	|	20716	|	59158	|	0.35	|	√ 字符串处理
 [1006](./PAT-Advanced/查找元素/1006%20Sign%20In%20and%20Sign%20Out%20(25%20分)/README.md) |	Sign In and Sign Out	|	25	|	20481	|	44813	|	0.46	|	√ 查找元素
 1007	|	Maximum Subsequence Sum	|	25	|	18145	|	94400	|	0.19	|	
-1008	|	Elevator	|	20	|	16694	|	28027	|	0.6	|	
+[1008](./PAT-Advanced/简单数学/1008%20Elevator%20(20%20分)/README.md) |	Elevator	|	20	|	16694	|	28027	|	0.6	|	√ 简单数学
 [1009](./PAT-Advanced/简单模拟/1009%20Product%20of%20Polynomials%20(25%20分)/README.md) |	Product of Polynomials	|	25	|	18950	|	66230	|	0.29	|	√ 简单模拟
 [1010](./PAT-Advanced/二分/1010~Radix~(25~分)/README.md) |	Radix	|	25	|	16082	|	140876	|	0.11	|	√ 二分
 [1011](./PAT-Advanced/查找元素/1011%20World%20Cup%20Betting%20(20%20分)/README.md) 	|	World Cup Betting	|	20	|	17407	|	32452	|	0.54	|	√ 查找元素
@@ -70,7 +70,7 @@
 1066	|	Root of AVL Tree	|	25	|	9212	|	21235	|	0.43	|	
 [1067](./PAT-Advanced/贪心/1067%20Sort%20with%20Swap(0,%20i)%20(25%20分)/README.md)	|	Sort with Swap(0, i)	|	25	|	9139	|	33519	|	0.27	|	√ 贪心
 1068	|	Find More Coins	|	30	|	6054	|	23064	|	0.26	|	
-1069	|	The Black Hole of Numbers	|	20	|	9051	|	29205	|	0.31	|	
+[1069](./PAT-Advanced/简单数学/1069%20The%20Black%20Hole%20of%20Numbers%20(20%20分)/README.md) 	|	The Black Hole of Numbers	|	20	|	9051	|	29205	|	0.31	|	√ 简单数学
 [1070](./PAT-Advanced/贪心/1070%20Mooncake%20(25%20分)/README.md)	|	Mooncake	|	25	|	7489	|	21683	|	0.35	|	√ 贪心
 1071	|	Speech Patterns	|	25	|	9739	|	27478	|	0.35	|	
 1072	|	Gas Station	|	30	|	9018	|	37996	|	0.24	|	
@@ -105,7 +105,7 @@
 [1101](./PAT-Advanced/其他高效技巧与算法/1101%20Quick%20Sort%20(25%20分)/README.md)	|	Quick Sort	|	25	|	9347	|	42191	|	0.22	|	√ 其他高效技巧与算法
 1102	|	Invert a Binary Tree	|	25	|	10619	|	20202	|	0.53	|	
 1103	|	Integer Factorization	|	30	|	13738	|	47539	|	0.29	|	
-1104	|	Sum of Number Segments	|	20	|	9772	|	41726	|	0.23	|	
+[1104](./PAT-Advanced/简单数学/1104%20Sum%20of%20Number%20Segments%20(20%20分)/README.md) 	|	Sum of Number Segments	|	20	|	9772	|	41726	|	0.23	|	√ 简单数学
 1105	|	Spiral Matrix	|	25	|	5939	|	18564	|	0.32	|	
 1106	|	Lowest Price in Supply Chain	|	25	|	8728	|	20794	|	0.42	|	
 1107	|	Social Clusters	|	30	|	11696	|	30360	|	0.39	|	
