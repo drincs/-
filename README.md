@@ -50,7 +50,7 @@
 [1046](./PAT-Advanced/简单模拟/1046%20Shortest%20Distance%20(20%20分)/README.md)	|	Shortest Distance	|	20	|	13323	|	45172	|	0.29	|	√ 简单模拟
 1047	|	Student List for Course	|	25	|	10773	|	39267	|	0.27	|	
 [1048](./PAT-Advanced/散列/1048%20Find%20Coins%20(25%20分)/README.md)	|	Find Coins	|	25	|	14820	|	48482	|	0.31	|	√ 散列
-1049	|	Counting Ones	|	30	|	7100	|	18682	|	0.38	|	
+[1049](./PAT-Advanced/简单数学/1049%20Counting%20Ones%20(30%20分)/README.md) |	Counting Ones	|	30	|	7100	|	18682	|	0.38	|	√ 简单数学
 [1050](./PAT-Advanced/散列/1050%20String%20Subtraction%20(20%20分)/README.md)	|	String Subtraction	|	20	|	11332	|	25852	|	0.44	|	√ 散列
 1051	|	Pop Sequence	|	25	|	11828	|	24913	|	0.47	|	
 1052	|	Linked List Sorting	|	25	|	12128	|	56162	|	0.22	|	
@@ -82,14 +82,14 @@
 1078	|	Hashing	|	25	|	9081	|	37171	|	0.24	|	
 1079	|	Total Sales of Supply Chain	|	25	|	9522	|	24198	|	0.39	|	
 [1080](./PAT-Advanced/排序/1080%20Graduate%20Admission%20(30%20分)/README.md) |	Graduate Admission	|	30	|	8257	|	34468	|	0.24	|	√ 排序
-1081	|	Rational Sum	|	20	|	8629	|	29282	|	0.29	|	
+[1081](./PAT-Advanced/分数的四则运算/1081%20Rational%20Sum%20(20%20分)/README.md) |	Rational Sum	|	20	|	8629	|	29282	|	0.29	|	√ 分数的四则运算
 [1082](./PAT-Advanced/字符串处理/1082%20Read%20Number%20in%20Chinese%20(25%20分)/README.md)	|	Read Number in Chinese	|	25	|	7847	|	30198	|	0.26	|	√ 字符串处理
 [1083](./PAT-Advanced/排序/1083%20List%20Grades%20(25%20分)/README.md) |	List Grades	|	25	|	8002	|	15314	|	0.52	|	√ 排序
 [1084](./PAT-Advanced/散列/1084%20Broken%20Keyboard%20(20%20分)/README.md)|	Broken Keyboard	|	20	|	8989	|	20573	|	0.44	|	√ 散列
 [1085](./PAT-Advanced/散列/1085~Perfect~Sequence~(25~分)/README.md)	|	Perfect Sequence	|	25	|	11392	|	42889	|	0.27	|	√ 二分
 1086	|	Tree Traversals Again	|	25	|	10433	|	23497	|	0.44	|	
 1087	|	All Roads Lead to Rome	|	30	|	9136	|	25760	|	0.35	|	
-1088	|	Rational Arithmetic	|	20	|	7054	|	22784	|	0.31	|	
+[1088](./PAT-Advanced/分数的四则运算/1088%20Rational%20Arithmetic%20(20%20分)/README.md) |	Rational Arithmetic	|	20	|	7054	|	22784	|	0.31	|	√ 分数的四则运算
 [1089](./PAT-Advanced/Two%20Pointers/1089%20Insert%20or%20Merge%20(25%20分)/README.md) |	Insert or Merge	|	25	|	8040	|	28736	|	0.28	|	√ Two Pointers
 1090	|	Highest Price in Supply Chain	|	25	|	8889	|	22001	|	0.4	|	
 1091	|	Acute Stroke	|	30	|	8851	|	27464	|	0.32	|	
