@@ -16,7 +16,7 @@
 [1012](./PAT-Advanced/排序/1012%20The%20Best%20Rank%20(25%20分)/README.md) |	The Best Rank	|	25	|	16945	|	65510	|	0.26	|	√ 排序
 1013	|	Battle Over Cities	|	25	|	19026	|	58634	|	0.32	|	
 1014	|	Waiting in Line	|	30	|	9028	|	41881	|	0.22	|	
-1015	|	Reversible Primes	|	20	|	14530	|	54861	|	0.26	|	
+[1015](./PAT-Advanced/素数/1015%20Reversible%20Primes%20(20%20分)/README.md) |	Reversible Primes	|	20	|	14530	|	54861	|	0.26	|	√ 素数
 [1016](./PAT-Advanced/排序/1016%20Phone%20Bills%20(25%20分)/README.md)	|	Phone Bills	|	25	|	10878	|	49020	|	0.22	|	√ 排序
 1017	|	Queueing at Bank	|	25	|	8390	|	33640	|	0.25	|	
 1018	|	Public Bike Management	|	30	|	11990	|	48158	|	0.25	|	
@@ -79,7 +79,7 @@
 [1075](./PAT-Advanced/排序/1075%20PAT%20Judge%20(25%20分)/README.md) |	PAT Judge	|	25	|	8700	|	42543	|	0.2	|	√ 排序
 1076	|	Forwards on Weibo	|	30	|	11637	|	31091	|	0.37	|	
 [1077](./PAT-Advanced/字符串处理/1077%20Kuchiguse%20(20%20分)/README.md) |	Kuchiguse	|	20	|	10515	|	47245	|	0.22	|	√ 字符串处理
-1078	|	Hashing	|	25	|	9081	|	37171	|	0.24	|	
+[1078](./PAT-Advanced/素数/1078%20Hashing%20(25%20分)/README.md) 	|	Hashing	|	25	|	9081	|	37171	|	0.24	|	√ 素数
 1079	|	Total Sales of Supply Chain	|	25	|	9522	|	24198	|	0.39	|	
 [1080](./PAT-Advanced/排序/1080%20Graduate%20Admission%20(30%20分)/README.md) |	Graduate Admission	|	30	|	8257	|	34468	|	0.24	|	√ 排序
 [1081](./PAT-Advanced/分数的四则运算/1081%20Rational%20Sum%20(20%20分)/README.md) |	Rational Sum	|	20	|	8629	|	29282	|	0.29	|	√ 分数的四则运算
