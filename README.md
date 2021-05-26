@@ -60,7 +60,7 @@
 1056	|	Mice and Rice	|	25	|	8093	|	16954	|	0.48	|	
 1057	|	Stack	|	30	|	6916	|	25797	|	0.27	|	
 [1058](./PAT-Advanced/进制转换/1058%20A+B%20in%20Hogwarts%20(20%20分)/README.md)	|	A+B in Hogwarts	|	20	|	10641	|	25155	|	0.42	|	√ 进制转换
-1059	|	Prime Factors	|	25	|	12472	|	38383	|	0.32	|	
+[1059](./PAT-Advanced/质因子分解/1059%20Prime%20Factors%20(25%20分)/README.md) |	Prime Factors	|	25	|	12472	|	38383	|	0.32	|	√ 质因子分解
 1060	|	Are They Equal	|	25	|	9894	|	46320	|	0.21	|	
 [1061](./PAT-Advanced/字符串处理/1061%20Dating%20(20%20分)/README.md)	|	Dating	|	20	|	8775	|	37958	|	0.23	|	√ 字符串处理
 [1062](./PAT-Advanced/排序/1062%20Talent%20and%20Virtue%20(25%20分)/README.md)	|	Talent and Virtue	|	25	|	9256	|	26056	|	0.36	|	√ 排序
@@ -97,7 +97,7 @@
 [1093](./PAT-Advanced/其他高效技巧与算法/1093%20Count%20PAT's%20(25%20分)/README.md)	|	Count PAT's	|	25	|	9317	|	27117	|	0.34	|	√ 其他高效技巧与算法
 1094	|	The Largest Generation	|	25	|	9244	|	16540	|	0.56	|	
 [1095](./PAT-Advanced/排序/1095%20Cars%20on%20Campus%20(30%20分)/README.md)	|	Cars on Campus	|	30	|	7808	|	30834	|	0.25	|	√ 排序
-1096	|	Consecutive Factors	|	20	|	8524	|	35548	|	0.24	|	
+[1096](./PAT-Advanced/质因子分解/1096%20Consecutive%20Factors%20(20%20分)/README.md)	|	Consecutive Factors	|	20	|	8524	|	35548	|	0.24	|	√ 质因子分解
 1097	|	Deduplication on a Linked List	|	25	|	8689	|	26528	|	0.33	|	
 1098	|	Insertion or Heap Sort	|	25	|	8464	|	25767	|	0.33	|	
 1099	|	Build A Binary Search Tree	|	30	|	9464	|	16705	|	0.57	|	
