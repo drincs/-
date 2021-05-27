@@ -24,8 +24,8 @@
 1020	|	Tree Traversals	|	25	|	17904	|	37608	|	0.48	|	
 1021	|	Deepest Root	|	25	|	12853	|	47688	|	0.27	|	
 1022	|	Digital Library	|	30	|	11594	|	36262	|	0.32	|	
-1023	|	Have Fun with Numbers	|	20	|	11286	|	35771	|	0.32	|	
-1024	|	Palindromic Number	|	25	|	10148	|	34570	|	0.29	|	
+[1023](./PAT-Advanced/大整数运算/1024%20Have%20Fun%20with%20Numbers%20(20%20分)/README.md)	|	Have Fun with Numbers	|	20	|	11286	|	35771	|	0.32	|	√ 大整数运算
+[1024](./PAT-Advanced/大整数运算/1024%20Palindromic%20Number%20(25%20分)/README.md)	|	Palindromic Number	|	25	|	10148	|	34570	|	0.29	|	√ 大整数运算
 [1025](./PAT-Advanced/排序/1025%20PAT%20Ranking%20(25%20分)/README.md) |	PAT Ranking	|	25	|	18030	|	65164	|	0.28	|	√ 排序
 1026	|	Table Tennis	|	30	|	4806	|	28754	|	0.17	|	
 [1027](./PAT-Advanced/进制转换/1027%20Colors%20in%20Mars%20(20%20分)/README.md)	|	Colors in Mars	|	20	|	12695	|	25690	|	0.49	|	√ 进制转换
