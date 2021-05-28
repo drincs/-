@@ -40,7 +40,7 @@
 [1036](./PAT-Advanced/查找元素/1036%20Boys%20vs%20Girls%20(25%20分)/README.md) |	Boys vs Girls	|	25	|	12115	|	27991	|	0.43	|	√ 查找元素
 [1037](./PAT-Advanced/贪心/1037%20Magic%20Coupon%20(25%20分)/README.md) |	Magic Coupon	|	25	|	9829	|	25484	|	0.39	|	√ 贪心
 [1038](./PAT-Advanced/贪心/1038%20Recover%20the%20Smallest%20Number%20(30%20分)/README.md) |	Recover the Smallest Number	|	30	|	9839	|	31068	|	0.32	|	√ 贪心
-1039	|	Course List for Student	|	25	|	13303	|	41298	|	0.32	|	
+[1039](./PAT-Advanced/vector/1039%20Course%20List%20for%20Student%20(25%20分)/README.md)	|	Course List for Student	|	25	|	13303	|	41298	|	0.32	|	√ vector
 1040	|	Longest Symmetric String	|	25	|	9076	|	27851	|	0.33	|	
 [1041](./PAT-Advanced/散列/1041%20Be%20Unique%20(20%20分)/README.md)|	Be Unique	|	20	|	10706	|	24887	|	0.43	|	√ 散列
 [1042](./PAT-Advanced/简单模拟/1042%20Shuffling%20Machine%20(20%20分)/README.md)	|	Shuffling Machine	|	20	|	13748	|	32865	|	0.42	|	√ 简单模拟
@@ -48,7 +48,7 @@
 [1044](./PAT-Advanced/二分/1044%20Shopping%20in%20Mars%20(25%20分)/README.md) |	Shopping in Mars	|	25	|	9980	|	32908	|	0.3	|	√ 二分
 1045	|	Favorite Color Stripe	|	30	|	9356	|	25310	|	0.37	|	
 [1046](./PAT-Advanced/简单模拟/1046%20Shortest%20Distance%20(20%20分)/README.md)	|	Shortest Distance	|	20	|	13323	|	45172	|	0.29	|	√ 简单模拟
-1047	|	Student List for Course	|	25	|	10773	|	39267	|	0.27	|	
+[1047](./PAT-Advanced/vector/1047%20Student%20List%20for%20Course%20(25%20分)/README.md) |	Student List for Course	|	25	|	10773	|	39267	|	0.27	|	√ vector
 [1048](./PAT-Advanced/散列/1048%20Find%20Coins%20(25%20分)/README.md)	|	Find Coins	|	25	|	14820	|	48482	|	0.31	|	√ 散列
 [1049](./PAT-Advanced/简单数学/1049%20Counting%20Ones%20(30%20分)/README.md) |	Counting Ones	|	30	|	7100	|	18682	|	0.38	|	√ 简单数学
 [1050](./PAT-Advanced/散列/1050%20String%20Subtraction%20(20%20分)/README.md)	|	String Subtraction	|	20	|	11332	|	25852	|	0.44	|	√ 散列
