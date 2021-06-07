@@ -61,10 +61,10 @@
 1057	|	Stack	|	30	|	6916	|	25797	|	0.27	|	
 [1058](./PAT-Advanced/进制转换/1058%20A+B%20in%20Hogwarts%20(20%20分)/README.md)	|	A+B in Hogwarts	|	20	|	10641	|	25155	|	0.42	|	√ 进制转换
 [1059](./PAT-Advanced/质因子分解/1059%20Prime%20Factors%20(25%20分)/README.md) |	Prime Factors	|	25	|	12472	|	38383	|	0.32	|	√ 质因子分解
-1060	|	Are They Equal	|	25	|	9894	|	46320	|	0.21	|	
+[1060](./PAT-Advanced/string/1060%20Are%20They%20Equal%20(25%20分)/README.md) |	Are They Equal	|	25	|	9894	|	46320	|	0.21	|	√ string
 [1061](./PAT-Advanced/字符串处理/1061%20Dating%20(20%20分)/README.md)	|	Dating	|	20	|	8775	|	37958	|	0.23	|	√ 字符串处理
 [1062](./PAT-Advanced/排序/1062%20Talent%20and%20Virtue%20(25%20分)/README.md)	|	Talent and Virtue	|	25	|	9256	|	26056	|	0.36	|	√ 排序
-1063	|	Set Similarity	|	25	|	10346	|	26036	|	0.4	|	
+[1063](./PAT-Advanced/set/1063%20Set%20Similarity%20(25%20分)/README.md)	|	Set Similarity	|	25	|	10346	|	26036	|	0.4	|	√ set
 1064	|	Complete Binary Search Tree	|	30	|	9410	|	15979	|	0.59	|	
 [1065](./PAT-Advanced/简单模拟/1065%20A+B%20and%20C%20(64bit)%20(20%20分)/README.md)	|	A+B and C (64bit)	|	20	|	15195	|	57923	|	0.26	|	√ 简单模拟
 1066	|	Root of AVL Tree	|	25	|	9212	|	21235	|	0.43	|	
