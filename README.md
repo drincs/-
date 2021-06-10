@@ -101,7 +101,7 @@
 1097	|	Deduplication on a Linked List	|	25	|	8689	|	26528	|	0.33	|	
 1098	|	Insertion or Heap Sort	|	25	|	8464	|	25767	|	0.33	|	
 1099	|	Build A Binary Search Tree	|	30	|	9464	|	16705	|	0.57	|	
-1100	|	Mars Numbers	|	20	|	8659	|	29397	|	0.29	|	
+[1100](./PAT-Advanced/map/1100%2Mars%20Numbers%20(20%20分)/README.md)	|	Mars Numbers	|	20	|	8659	|	29397	|	0.29	|	√ map
 [1101](./PAT-Advanced/其他高效技巧与算法/1101%20Quick%20Sort%20(25%20分)/README.md)	|	Quick Sort	|	25	|	9347	|	42191	|	0.22	|	√ 其他高效技巧与算法
 1102	|	Invert a Binary Tree	|	25	|	10619	|	20202	|	0.53	|	
 1103	|	Integer Factorization	|	30	|	13738	|	47539	|	0.29	|	
