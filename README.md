@@ -23,7 +23,7 @@
 [1019](./PAT-Advanced/进制转换/1019%20General%20Palindromic%20Number%20(20%20分)/README.md) |	General Palindromic Number	|	20	|	14114	|	38742	|	0.36	|	√ 进制转换
 1020	|	Tree Traversals	|	25	|	17904	|	37608	|	0.48	|	
 1021	|	Deepest Root	|	25	|	12853	|	47688	|	0.27	|	
-1022	|	Digital Library	|	30	|	11594	|	36262	|	0.32	|	
+[1022](./PAT-Advanced/map/1022%20Digital%20Library%20(30%20分)/README.md)	|	Digital Library	|	30	|	11594	|	36262	|	0.32	|	√ map
 [1023](./PAT-Advanced/大整数运算/1024%20Have%20Fun%20with%20Numbers%20(20%20分)/README.md)	|	Have Fun with Numbers	|	20	|	11286	|	35771	|	0.32	|	√ 大整数运算
 [1024](./PAT-Advanced/大整数运算/1024%20Palindromic%20Number%20(25%20分)/README.md)	|	Palindromic Number	|	25	|	10148	|	34570	|	0.29	|	√ 大整数运算
 [1025](./PAT-Advanced/排序/1025%20PAT%20Ranking%20(25%20分)/README.md) |	PAT Ranking	|	25	|	18030	|	65164	|	0.28	|	√ 排序
@@ -52,12 +52,12 @@
 [1048](./PAT-Advanced/散列/1048%20Find%20Coins%20(25%20分)/README.md)	|	Find Coins	|	25	|	14820	|	48482	|	0.31	|	√ 散列
 [1049](./PAT-Advanced/简单数学/1049%20Counting%20Ones%20(30%20分)/README.md) |	Counting Ones	|	30	|	7100	|	18682	|	0.38	|	√ 简单数学
 [1050](./PAT-Advanced/散列/1050%20String%20Subtraction%20(20%20分)/README.md)	|	String Subtraction	|	20	|	11332	|	25852	|	0.44	|	√ 散列
-1051	|	Pop Sequence	|	25	|	11828	|	24913	|	0.47	|	
+[1051](./PAT-Advanced/栈的应用/1051%20Pop%20Sequence%20(25%20分)/README.md)	|	Pop Sequence	|	25	|	11828	|	24913	|	0.47	|	√ 栈的应用
 1052	|	Linked List Sorting	|	25	|	12128	|	56162	|	0.22	|	
 1053	|	Path of Equal Weight	|	30	|	13123	|	29199	|	0.45	|	
 [1054](./PAT-Advanced/map/1054%20The%20Dominant%20Color%20(20%20分)/README.md)	|	The Dominant Color	|	20	|	10866	|	21164	|	0.51	|	√ map
 [1055](./PAT-Advanced/排序/1055%20The%20World's%20Richest%20(25%20分)/README.md)	|	The World's Richest	|	25	|	12894	|	52832	|	0.24	|	√ 排序
-1056	|	Mice and Rice	|	25	|	8093	|	16954	|	0.48	|	
+[1056](./PAT-Advanced/队列的应用/1056%20Mice%20and%20Rice%20(25%20分)/README.md)	|	Mice and Rice	|	25	|	8093	|	16954	|	0.48	|	√ 队列的应用
 1057	|	Stack	|	30	|	6916	|	25797	|	0.27	|	
 [1058](./PAT-Advanced/进制转换/1058%20A+B%20in%20Hogwarts%20(20%20分)/README.md)	|	A+B in Hogwarts	|	20	|	10641	|	25155	|	0.42	|	√ 进制转换
 [1059](./PAT-Advanced/质因子分解/1059%20Prime%20Factors%20(25%20分)/README.md) |	Prime Factors	|	25	|	12472	|	38383	|	0.32	|	√ 质因子分解
