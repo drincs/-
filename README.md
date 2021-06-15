@@ -55,7 +55,7 @@
 1051	|	Pop Sequence	|	25	|	11828	|	24913	|	0.47	|	
 1052	|	Linked List Sorting	|	25	|	12128	|	56162	|	0.22	|	
 1053	|	Path of Equal Weight	|	30	|	13123	|	29199	|	0.45	|	
-1054	|	The Dominant Color	|	20	|	10866	|	21164	|	0.51	|	
+[1054](./PAT-Advanced/map/1054%20The%20Dominant%20Color%20(20%20分)/README.md)	|	The Dominant Color	|	20	|	10866	|	21164	|	0.51	|	√ map
 [1055](./PAT-Advanced/排序/1055%20The%20World's%20Richest%20(25%20分)/README.md)	|	The World's Richest	|	25	|	12894	|	52832	|	0.24	|	√ 排序
 1056	|	Mice and Rice	|	25	|	8093	|	16954	|	0.48	|	
 1057	|	Stack	|	30	|	6916	|	25797	|	0.27	|	
@@ -72,7 +72,7 @@
 1068	|	Find More Coins	|	30	|	6054	|	23064	|	0.26	|	
 [1069](./PAT-Advanced/简单数学/1069%20The%20Black%20Hole%20of%20Numbers%20(20%20分)/README.md) 	|	The Black Hole of Numbers	|	20	|	9051	|	29205	|	0.31	|	√ 简单数学
 [1070](./PAT-Advanced/贪心/1070%20Mooncake%20(25%20分)/README.md)	|	Mooncake	|	25	|	7489	|	21683	|	0.35	|	√ 贪心
-1071	|	Speech Patterns	|	25	|	9739	|	27478	|	0.35	|	
+[1071](./PAT-Advanced/map/1071%20Speech%20Patterns%20(25%20分)/README.md)	|	Speech Patterns	|	25	|	9739	|	27478	|	0.35	|	√ map
 1072	|	Gas Station	|	30	|	9018	|	37996	|	0.24	|	
 1073	|	Scientific Notation	|	20	|	8085	|	23634	|	0.34	|	
 1074	|	Reversing Linked List	|	25	|	8631	|	30006	|	0.29	|	
