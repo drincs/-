@@ -33,7 +33,7 @@
 [1029](./PAT-Advanced/Two%20Pointers/1029%20Median%20(25%20分)/README.md)	|	Median	|	25	|	12039	|	73811	|	0.16	|	√ Two Pointers
 1030	|	Travel Plan	|	30	|	14892	|	33872	|	0.44	|	
 [1031](./PAT-Advanced/图形输出/1031%20Hello%20World%20for%20U%20(20%20分)/README.md)	|	Hello World for U	|	20	|	12295	|	31417	|	0.39	|	√ 图形输出
-[1032](./PAT-Advanced/排序/1032%20Sharing%20(25%20分)/README.md)	|	Sharing	|	25	|	13574	|	49795	|	0.27	|	√ 链表处理
+[1032](./PAT-Advanced/链表处理/1032%20Sharing%20(25%20分)/README.md)	|	Sharing	|	25	|	13574	|	49795	|	0.27	|	√ 链表处理
 [1033](./PAT-Advanced/贪心/1033%20To%20Fill%20or%20Not%20to%20Fill%20(25%20分)/README.md) |	To Fill or Not to Fill	|	25	|	9307	|	31486	|	0.3	|	√ 贪心
 1034	|	Head of a Gang	|	30	|	13459	|	43920	|	0.31	|	
 [1035](./PAT-Advanced/字符串处理/1035%20Password%20(20%20分)/README.md)	|	Password	|	20	|	11663	|	38049	|	0.31	|	√ 字符串处理
@@ -53,7 +53,7 @@
 [1049](./PAT-Advanced/简单数学/1049%20Counting%20Ones%20(30%20分)/README.md) |	Counting Ones	|	30	|	7100	|	18682	|	0.38	|	√ 简单数学
 [1050](./PAT-Advanced/散列/1050%20String%20Subtraction%20(20%20分)/README.md)	|	String Subtraction	|	20	|	11332	|	25852	|	0.44	|	√ 散列
 [1051](./PAT-Advanced/栈的应用/1051%20Pop%20Sequence%20(25%20分)/README.md)	|	Pop Sequence	|	25	|	11828	|	24913	|	0.47	|	√ 栈的应用
-1052	|	Linked List Sorting	|	25	|	12128	|	56162	|	0.22	|	
+[1052](./PAT-Advanced/链表处理/1052%20Linked%20List%20Sorting%20(25%20分)/README.md)	|	Linked List Sorting	|	25	|	12128	|	56162	|	0.22	|	√ 链表处理
 1053	|	Path of Equal Weight	|	30	|	13123	|	29199	|	0.45	|	
 [1054](./PAT-Advanced/map/1054%20The%20Dominant%20Color%20(20%20分)/README.md)	|	The Dominant Color	|	20	|	10866	|	21164	|	0.51	|	√ map
 [1055](./PAT-Advanced/排序/1055%20The%20World's%20Richest%20(25%20分)/README.md)	|	The World's Richest	|	25	|	12894	|	52832	|	0.24	|	√ 排序
@@ -98,7 +98,7 @@
 1094	|	The Largest Generation	|	25	|	9244	|	16540	|	0.56	|	
 [1095](./PAT-Advanced/排序/1095%20Cars%20on%20Campus%20(30%20分)/README.md)	|	Cars on Campus	|	30	|	7808	|	30834	|	0.25	|	√ 排序
 [1096](./PAT-Advanced/质因子分解/1096%20Consecutive%20Factors%20(20%20分)/README.md)	|	Consecutive Factors	|	20	|	8524	|	35548	|	0.24	|	√ 质因子分解
-1097	|	Deduplication on a Linked List	|	25	|	8689	|	26528	|	0.33	|	
+[1097](./PAT-Advanced/链表处理/1097%20Deduplication%20on%20a%20Linked%20List%20(25%20分)/README.md)	|	Deduplication on a Linked List	|	25	|	8689	|	26528	|	0.33	|	√ 链表处理
 1098	|	Insertion or Heap Sort	|	25	|	8464	|	25767	|	0.33	|	
 1099	|	Build A Binary Search Tree	|	30	|	9464	|	16705	|	0.57	|	
 [1100](./PAT-Advanced/map/1100%2Mars%20Numbers%20(20%20分)/README.md)	|	Mars Numbers	|	20	|	8659	|	29397	|	0.29	|	√ map
