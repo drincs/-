@@ -33,7 +33,7 @@
 [1029](./PAT-Advanced/Two%20Pointers/1029%20Median%20(25%20分)/README.md)	|	Median	|	25	|	12039	|	73811	|	0.16	|	√ Two Pointers
 1030	|	Travel Plan	|	30	|	14892	|	33872	|	0.44	|	
 [1031](./PAT-Advanced/图形输出/1031%20Hello%20World%20for%20U%20(20%20分)/README.md)	|	Hello World for U	|	20	|	12295	|	31417	|	0.39	|	√ 图形输出
-1032	|	Sharing	|	25	|	13574	|	49795	|	0.27	|	
+[1032](./PAT-Advanced/排序/1032%20Sharing%20(25%20分)/README.md)	|	Sharing	|	25	|	13574	|	49795	|	0.27	|	√ 链表处理
 [1033](./PAT-Advanced/贪心/1033%20To%20Fill%20or%20Not%20to%20Fill%20(25%20分)/README.md) |	To Fill or Not to Fill	|	25	|	9307	|	31486	|	0.3	|	√ 贪心
 1034	|	Head of a Gang	|	30	|	13459	|	43920	|	0.31	|	
 [1035](./PAT-Advanced/字符串处理/1035%20Password%20(20%20分)/README.md)	|	Password	|	20	|	11663	|	38049	|	0.31	|	√ 字符串处理
@@ -75,7 +75,7 @@
 [1071](./PAT-Advanced/map/1071%20Speech%20Patterns%20(25%20分)/README.md)	|	Speech Patterns	|	25	|	9739	|	27478	|	0.35	|	√ map
 1072	|	Gas Station	|	30	|	9018	|	37996	|	0.24	|	
 1073	|	Scientific Notation	|	20	|	8085	|	23634	|	0.34	|	
-1074	|	Reversing Linked List	|	25	|	8631	|	30006	|	0.29	|	
+[1074](./PAT-Advanced/链表处理/1074%20Reversing%20Linked%20List%20(25%20分)/README.md)	|	Reversing Linked List	|	25	|	8631	|	30006	|	0.29	|	√ 链表处理
 [1075](./PAT-Advanced/排序/1075%20PAT%20Judge%20(25%20分)/README.md) |	PAT Judge	|	25	|	8700	|	42543	|	0.2	|	√ 排序
 1076	|	Forwards on Weibo	|	30	|	11637	|	31091	|	0.37	|	
 [1077](./PAT-Advanced/字符串处理/1077%20Kuchiguse%20(20%20分)/README.md) |	Kuchiguse	|	20	|	10515	|	47245	|	0.22	|	√ 字符串处理
