@@ -104,7 +104,7 @@
 [1100](./PAT-Advanced/map/1100%2Mars%20Numbers%20(20%20分)/README.md)	|	Mars Numbers	|	20	|	8659	|	29397	|	0.29	|	√ map
 [1101](./PAT-Advanced/其他高效技巧与算法/1101%20Quick%20Sort%20(25%20分)/README.md)	|	Quick Sort	|	25	|	9347	|	42191	|	0.22	|	√ 其他高效技巧与算法
 1102	|	Invert a Binary Tree	|	25	|	10619	|	20202	|	0.53	|	
-1103	|	Integer Factorization	|	30	|	13738	|	47539	|	0.29	|	
+[1103](./PAT-Advanced/深度优先搜索/1103%20Integer%20Factorization%20(30%20分)/README.md)	|	Integer Factorization	|	30	|	13738	|	47539	|	0.29	|	√ 深度优先搜索
 [1104](./PAT-Advanced/简单数学/1104%20Sum%20of%20Number%20Segments%20(20%20分)/README.md) 	|	Sum of Number Segments	|	20	|	9772	|	41726	|	0.23	|	√ 简单数学
 1105	|	Spiral Matrix	|	25	|	5939	|	18564	|	0.32	|	
 1106	|	Lowest Price in Supply Chain	|	25	|	8728	|	20794	|	0.42	|	
@@ -153,7 +153,7 @@
 1149	|	Dangerous Goods Packaging	|	25	|	7572	|	19174	|	0.39	|	
 1150	|	Travelling Salesman Problem	|	25	|	6455	|	18627	|	0.35	|	
 1151	|	LCA in a Binary Tree	|	30	|	9307	|	35113	|	0.27	|	
-1152	|	Google Recruitment	|	20	|	9087	|	36887	|	0.25	|	
-1153	|	Decode Registration Card of PAT	|	25	|	8154	|	38307	|	0.21	|	
-1154	|	Vertex Coloring	|	25	|	7796	|	20968	|	0.37	|	
-1155	|	Heap Paths	|	30	|	8114	|	17166	|	0.47	|	
+[1152](./模拟考试/1152-1155(得分92)/1152%20Google%20Recruitment%20(20%20分)/README.md)	|	Google Recruitment	|	20	|	9087	|	36887	|	0.25	|	√
+[1153](./模拟考试/1152-1155(得分92)/1153%20Decode%20Registration%20Card%20of%20PAT%20(25%20分)/README.md)	|	Decode Registration Card of PAT	|	25	|	8154	|	38307	|	0.21	|	√
+[1154](./模拟考试/1152-1155(得分92)/1154%20Vertex%20Coloring%20(25%20分)/README.md)	|	Vertex Coloring	|	25	|	7796	|	20968	|	0.37	|	√
+[1155](./模拟考试/1152-1155(得分92)/1155%20Heap%20Paths%20(30%20分)/README.md)	|	Heap Paths	|	30	|	8114	|	17166	|	0.47	|	√
