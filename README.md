@@ -92,7 +92,7 @@
 [1088](./PAT-Advanced/分数的四则运算/1088%20Rational%20Arithmetic%20(20%20分)/README.md) |	Rational Arithmetic	|	20	|	7054	|	22784	|	0.31	|	√ 分数的四则运算
 [1089](./PAT-Advanced/Two%20Pointers/1089%20Insert%20or%20Merge%20(25%20分)/README.md) |	Insert or Merge	|	25	|	8040	|	28736	|	0.28	|	√ Two Pointers
 1090	|	Highest Price in Supply Chain	|	25	|	8889	|	22001	|	0.4	|	
-1091	|	Acute Stroke	|	30	|	8851	|	27464	|	0.32	|	
+[1091](./PAT-Advanced/广度优先搜索/1091%20Acute%20Stroke%20(30%20分)/README.md)	|	Acute Stroke	|	30	|	8851	|	27464	|	0.32	|	√ 广度优先搜索
 [1092](./PAT-Advanced/散列/1092%20To%20Buy%20or%20Not%20to%20Buy%20(20%20分)/README.md)|	To Buy or Not to Buy	|	20	|	8315	|	14711	|	0.57	|	√ 散列
 [1093](./PAT-Advanced/其他高效技巧与算法/1093%20Count%20PAT's%20(25%20分)/README.md)	|	Count PAT's	|	25	|	9317	|	27117	|	0.34	|	√ 其他高效技巧与算法
 1094	|	The Largest Generation	|	25	|	9244	|	16540	|	0.56	|	
