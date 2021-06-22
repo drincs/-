@@ -21,7 +21,7 @@
 1017	|	Queueing at Bank	|	25	|	8390	|	33640	|	0.25	|	
 1018	|	Public Bike Management	|	30	|	11990	|	48158	|	0.25	|	
 [1019](./PAT-Advanced/进制转换/1019%20General%20Palindromic%20Number%20(20%20分)/README.md) |	General Palindromic Number	|	20	|	14114	|	38742	|	0.36	|	√ 进制转换
-1020	|	Tree Traversals	|	25	|	17904	|	37608	|	0.48	|	
+[1020](./PAT-Advanced/二叉树的遍历/1020%20Tree%20Traversals%20(25%20分)/README.md)	|	Tree Traversals	|	25	|	17904	|	37608	|	0.48	|	√ 二叉树的遍历
 1021	|	Deepest Root	|	25	|	12853	|	47688	|	0.27	|	
 [1022](./PAT-Advanced/map/1022%20Digital%20Library%20(30%20分)/README.md)	|	Digital Library	|	30	|	11594	|	36262	|	0.32	|	√ map
 [1023](./PAT-Advanced/大整数运算/1024%20Have%20Fun%20with%20Numbers%20(20%20分)/README.md)	|	Have Fun with Numbers	|	20	|	11286	|	35771	|	0.32	|	√ 大整数运算
@@ -87,7 +87,7 @@
 [1083](./PAT-Advanced/排序/1083%20List%20Grades%20(25%20分)/README.md) |	List Grades	|	25	|	8002	|	15314	|	0.52	|	√ 排序
 [1084](./PAT-Advanced/散列/1084%20Broken%20Keyboard%20(20%20分)/README.md)|	Broken Keyboard	|	20	|	8989	|	20573	|	0.44	|	√ 散列
 [1085](./PAT-Advanced/散列/1085~Perfect~Sequence~(25~分)/README.md)	|	Perfect Sequence	|	25	|	11392	|	42889	|	0.27	|	√ 二分
-1086	|	Tree Traversals Again	|	25	|	10433	|	23497	|	0.44	|	
+[1086](./PAT-Advanced/二叉树的遍历/1086%20Tree%20Traversals%20Again%20(25%20分)/README.md)	|	Tree Traversals Again	|	25	|	10433	|	23497	|	0.44	|	√ 二叉树的遍历
 1087	|	All Roads Lead to Rome	|	30	|	9136	|	25760	|	0.35	|	
 [1088](./PAT-Advanced/分数的四则运算/1088%20Rational%20Arithmetic%20(20%20分)/README.md) |	Rational Arithmetic	|	20	|	7054	|	22784	|	0.31	|	√ 分数的四则运算
 [1089](./PAT-Advanced/Two%20Pointers/1089%20Insert%20or%20Merge%20(25%20分)/README.md) |	Insert or Merge	|	25	|	8040	|	28736	|	0.28	|	√ Two Pointers
@@ -103,7 +103,7 @@
 1099	|	Build A Binary Search Tree	|	30	|	9464	|	16705	|	0.57	|	
 [1100](./PAT-Advanced/map/1100%2Mars%20Numbers%20(20%20分)/README.md)	|	Mars Numbers	|	20	|	8659	|	29397	|	0.29	|	√ map
 [1101](./PAT-Advanced/其他高效技巧与算法/1101%20Quick%20Sort%20(25%20分)/README.md)	|	Quick Sort	|	25	|	9347	|	42191	|	0.22	|	√ 其他高效技巧与算法
-1102	|	Invert a Binary Tree	|	25	|	10619	|	20202	|	0.53	|	
+[1102](./PAT-Advanced/二叉树的遍历/1102%20Invert%20a%20Binary%20Tree%20(25%20分)/README.md)	|	Invert a Binary Tree	|	25	|	10619	|	20202	|	0.53	|	√ 二叉树的遍历
 [1103](./PAT-Advanced/深度优先搜索/1103%20Integer%20Factorization%20(30%20分)/README.md)	|	Integer Factorization	|	30	|	13738	|	47539	|	0.29	|	√ 深度优先搜索
 [1104](./PAT-Advanced/简单数学/1104%20Sum%20of%20Number%20Segments%20(20%20分)/README.md) 	|	Sum of Number Segments	|	20	|	9772	|	41726	|	0.23	|	√ 简单数学
 1105	|	Spiral Matrix	|	25	|	5939	|	18564	|	0.32	|	
