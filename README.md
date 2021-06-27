@@ -5,7 +5,7 @@
 [1001](./PAT-Advanced/字符串处理/1001%20A+B%20Format%20(20%20分)/README.md)	|	A+B Format	|	20	|	39651	|	155031	|	0.26	|	√ 字符串处理
 [1002](./PAT-Advanced/简单模拟/1002%20A+B%20for%20Polynomials%20(25%20分)/README.md)	|	A+B for Polynomials	|	25	|	32176	|	153960	|	0.21	|	√ 简单模拟
 1003	|	Emergency	|	25	|	28995	|	100078	|	0.29	|	
-1004	|	Counting Leaves	|	30	|	20043	|	57223	|	0.35	|	
+[1004](./PAT-Advanced/树的遍历/1004%20Counting%20Leaves%20(30%20分)/README.md)	|	Counting Leaves	|	30	|	20043	|	57223	|	0.35	|	√ 树的遍历
 [1005](./PAT-Advanced/字符串处理/1005%20Spell%20It%20Right%20(20%20分)/README.md)	|	Spell It Right	|	20	|	20716	|	59158	|	0.35	|	√ 字符串处理
 [1006](./PAT-Advanced/查找元素/1006%20Sign%20In%20and%20Sign%20Out%20(25%20分)/README.md) |	Sign In and Sign Out	|	25	|	20481	|	44813	|	0.46	|	√ 查找元素
 1007	|	Maximum Subsequence Sum	|	25	|	18145	|	94400	|	0.19	|	
@@ -54,7 +54,7 @@
 [1050](./PAT-Advanced/散列/1050%20String%20Subtraction%20(20%20分)/README.md)	|	String Subtraction	|	20	|	11332	|	25852	|	0.44	|	√ 散列
 [1051](./PAT-Advanced/栈的应用/1051%20Pop%20Sequence%20(25%20分)/README.md)	|	Pop Sequence	|	25	|	11828	|	24913	|	0.47	|	√ 栈的应用
 [1052](./PAT-Advanced/链表处理/1052%20Linked%20List%20Sorting%20(25%20分)/README.md)	|	Linked List Sorting	|	25	|	12128	|	56162	|	0.22	|	√ 链表处理
-1053	|	Path of Equal Weight	|	30	|	13123	|	29199	|	0.45	|	
+[1053](./PAT-Advanced/树的遍历/1053%20Path%20of%20Equal%20Weight%20(30%20分)/README.md)	|	Path of Equal Weight	|	30	|	13123	|	29199	|	0.45	|	√ 树的遍历
 [1054](./PAT-Advanced/map/1054%20The%20Dominant%20Color%20(20%20分)/README.md)	|	The Dominant Color	|	20	|	10866	|	21164	|	0.51	|	√ map
 [1055](./PAT-Advanced/排序/1055%20The%20World's%20Richest%20(25%20分)/README.md)	|	The World's Richest	|	25	|	12894	|	52832	|	0.24	|	√ 排序
 [1056](./PAT-Advanced/队列的应用/1056%20Mice%20and%20Rice%20(25%20分)/README.md)	|	Mice and Rice	|	25	|	8093	|	16954	|	0.48	|	√ 队列的应用
@@ -80,7 +80,7 @@
 1076	|	Forwards on Weibo	|	30	|	11637	|	31091	|	0.37	|	
 [1077](./PAT-Advanced/字符串处理/1077%20Kuchiguse%20(20%20分)/README.md) |	Kuchiguse	|	20	|	10515	|	47245	|	0.22	|	√ 字符串处理
 [1078](./PAT-Advanced/素数/1078%20Hashing%20(25%20分)/README.md) 	|	Hashing	|	25	|	9081	|	37171	|	0.24	|	√ 素数
-1079	|	Total Sales of Supply Chain	|	25	|	9522	|	24198	|	0.39	|	
+[1079](./PAT-Advanced/树的遍历/1079%20Total%20Sales%20of%20Supply%20Chain%20(25%20分)/README.md)	|	Total Sales of Supply Chain	|	25	|	9522	|	24198	|	0.39	|	√ 树的遍历
 [1080](./PAT-Advanced/排序/1080%20Graduate%20Admission%20(30%20分)/README.md) |	Graduate Admission	|	30	|	8257	|	34468	|	0.24	|	√ 排序
 [1081](./PAT-Advanced/分数的四则运算/1081%20Rational%20Sum%20(20%20分)/README.md) |	Rational Sum	|	20	|	8629	|	29282	|	0.29	|	√ 分数的四则运算
 [1082](./PAT-Advanced/字符串处理/1082%20Read%20Number%20in%20Chinese%20(25%20分)/README.md)	|	Read Number in Chinese	|	25	|	7847	|	30198	|	0.26	|	√ 字符串处理
@@ -91,11 +91,11 @@
 1087	|	All Roads Lead to Rome	|	30	|	9136	|	25760	|	0.35	|	
 [1088](./PAT-Advanced/分数的四则运算/1088%20Rational%20Arithmetic%20(20%20分)/README.md) |	Rational Arithmetic	|	20	|	7054	|	22784	|	0.31	|	√ 分数的四则运算
 [1089](./PAT-Advanced/Two%20Pointers/1089%20Insert%20or%20Merge%20(25%20分)/README.md) |	Insert or Merge	|	25	|	8040	|	28736	|	0.28	|	√ Two Pointers
-1090	|	Highest Price in Supply Chain	|	25	|	8889	|	22001	|	0.4	|	
+[1090](./PAT-Advanced/树的遍历/1090%20Highest%20Price%20in%20Supply%20Chain%20(25%20分)/README.md)	|	Highest Price in Supply Chain	|	25	|	8889	|	22001	|	0.4	|	√ 树的遍历
 [1091](./PAT-Advanced/广度优先搜索/1091%20Acute%20Stroke%20(30%20分)/README.md)	|	Acute Stroke	|	30	|	8851	|	27464	|	0.32	|	√ 广度优先搜索
 [1092](./PAT-Advanced/散列/1092%20To%20Buy%20or%20Not%20to%20Buy%20(20%20分)/README.md)|	To Buy or Not to Buy	|	20	|	8315	|	14711	|	0.57	|	√ 散列
 [1093](./PAT-Advanced/其他高效技巧与算法/1093%20Count%20PAT's%20(25%20分)/README.md)	|	Count PAT's	|	25	|	9317	|	27117	|	0.34	|	√ 其他高效技巧与算法
-1094	|	The Largest Generation	|	25	|	9244	|	16540	|	0.56	|	
+[1094](./PAT-Advanced/树的遍历/1094%20The%20Largest%20Generation%20(25%20分)/README.md)	|	The Largest Generation	|	25	|	9244	|	16540	|	0.56	|	√ 树的遍历
 [1095](./PAT-Advanced/排序/1095%20Cars%20on%20Campus%20(30%20分)/README.md)	|	Cars on Campus	|	30	|	7808	|	30834	|	0.25	|	√ 排序
 [1096](./PAT-Advanced/质因子分解/1096%20Consecutive%20Factors%20(20%20分)/README.md)	|	Consecutive Factors	|	20	|	8524	|	35548	|	0.24	|	√ 质因子分解
 [1097](./PAT-Advanced/链表处理/1097%20Deduplication%20on%20a%20Linked%20List%20(25%20分)/README.md)	|	Deduplication on a Linked List	|	25	|	8689	|	26528	|	0.33	|	√ 链表处理
@@ -107,7 +107,7 @@
 [1103](./PAT-Advanced/深度优先搜索/1103%20Integer%20Factorization%20(30%20分)/README.md)	|	Integer Factorization	|	30	|	13738	|	47539	|	0.29	|	√ 深度优先搜索
 [1104](./PAT-Advanced/简单数学/1104%20Sum%20of%20Number%20Segments%20(20%20分)/README.md) 	|	Sum of Number Segments	|	20	|	9772	|	41726	|	0.23	|	√ 简单数学
 1105	|	Spiral Matrix	|	25	|	5939	|	18564	|	0.32	|	
-1106	|	Lowest Price in Supply Chain	|	25	|	8728	|	20794	|	0.42	|	
+[1106](./PAT-Advanced/树的遍历/1106%20Lowest%20Price%20in%20Supply%20Chain%20(25%20分)/README.md)	|	Lowest Price in Supply Chain	|	25	|	8728	|	20794	|	0.42	|	√ 树的遍历
 1107	|	Social Clusters	|	30	|	11696	|	30360	|	0.39	|	
 1108	|	Finding Average	|	20	|	7195	|	27942	|	0.26	|	
 1109	|	Group Photo	|	25	|	5237	|	14498	|	0.36	|	
