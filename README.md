@@ -44,7 +44,7 @@
 1040	|	Longest Symmetric String	|	25	|	9076	|	27851	|	0.33	|	
 [1041](./PAT-Advanced/散列/1041%20Be%20Unique%20(20%20分)/README.md)|	Be Unique	|	20	|	10706	|	24887	|	0.43	|	√ 散列
 [1042](./PAT-Advanced/简单模拟/1042%20Shuffling%20Machine%20(20%20分)/README.md)	|	Shuffling Machine	|	20	|	13748	|	32865	|	0.42	|	√ 简单模拟
-1043	|	Is It a Binary Search Tree	|	25	|	11898	|	33583	|	0.35	|	
+[1043](./PAT-Advanced/二叉查找树/1043%20Is%20It%20a%20Binary%20Search%20Tree%20(25%20分)/README.md) 	|	Is It a Binary Search Tree	|	25	|	11898	|	33583	|	0.35	|	√ 二叉查找树
 [1044](./PAT-Advanced/二分/1044%20Shopping%20in%20Mars%20(25%20分)/README.md) |	Shopping in Mars	|	25	|	9980	|	32908	|	0.3	|	√ 二分
 1045	|	Favorite Color Stripe	|	30	|	9356	|	25310	|	0.37	|	
 [1046](./PAT-Advanced/简单模拟/1046%20Shortest%20Distance%20(20%20分)/README.md)	|	Shortest Distance	|	20	|	13323	|	45172	|	0.29	|	√ 简单模拟
@@ -65,7 +65,7 @@
 [1061](./PAT-Advanced/字符串处理/1061%20Dating%20(20%20分)/README.md)	|	Dating	|	20	|	8775	|	37958	|	0.23	|	√ 字符串处理
 [1062](./PAT-Advanced/排序/1062%20Talent%20and%20Virtue%20(25%20分)/README.md)	|	Talent and Virtue	|	25	|	9256	|	26056	|	0.36	|	√ 排序
 [1063](./PAT-Advanced/set/1063%20Set%20Similarity%20(25%20分)/README.md)	|	Set Similarity	|	25	|	10346	|	26036	|	0.4	|	√ set
-1064	|	Complete Binary Search Tree	|	30	|	9410	|	15979	|	0.59	|	
+[1064](./PAT-Advanced/二叉查找树/1064%20Complete%20Binary Search%20Tree%20(30%20分)/README.md)	|	Complete Binary Search Tree	|	30	|	9410	|	15979	|	0.59	|	√ 二叉查找树
 [1065](./PAT-Advanced/简单模拟/1065%20A+B%20and%20C%20(64bit)%20(20%20分)/README.md)	|	A+B and C (64bit)	|	20	|	15195	|	57923	|	0.26	|	√ 简单模拟
 1066	|	Root of AVL Tree	|	25	|	9212	|	21235	|	0.43	|	
 [1067](./PAT-Advanced/贪心/1067%20Sort%20with%20Swap(0,%20i)%20(25%20分)/README.md)	|	Sort with Swap(0, i)	|	25	|	9139	|	33519	|	0.27	|	√ 贪心
@@ -100,7 +100,7 @@
 [1096](./PAT-Advanced/质因子分解/1096%20Consecutive%20Factors%20(20%20分)/README.md)	|	Consecutive Factors	|	20	|	8524	|	35548	|	0.24	|	√ 质因子分解
 [1097](./PAT-Advanced/链表处理/1097%20Deduplication%20on%20a%20Linked%20List%20(25%20分)/README.md)	|	Deduplication on a Linked List	|	25	|	8689	|	26528	|	0.33	|	√ 链表处理
 1098	|	Insertion or Heap Sort	|	25	|	8464	|	25767	|	0.33	|	
-1099	|	Build A Binary Search Tree	|	30	|	9464	|	16705	|	0.57	|	
+[1099](./PAT-Advanced/二叉查找树/1099%20Build%20A%20Binary%20Search%20Tree%20(30%20分)/README.md)	|	Build A Binary Search Tree	|	30	|	9464	|	16705	|	0.57	|	√ 二叉查找树
 [1100](./PAT-Advanced/map/1100%2Mars%20Numbers%20(20%20分)/README.md)	|	Mars Numbers	|	20	|	8659	|	29397	|	0.29	|	√ map
 [1101](./PAT-Advanced/其他高效技巧与算法/1101%20Quick%20Sort%20(25%20分)/README.md)	|	Quick Sort	|	25	|	9347	|	42191	|	0.22	|	√ 其他高效技巧与算法
 [1102](./PAT-Advanced/二叉树的遍历/1102%20Invert%20a%20Binary%20Tree%20(25%20分)/README.md)	|	Invert a Binary Tree	|	25	|	10619	|	20202	|	0.53	|	√ 二叉树的遍历
