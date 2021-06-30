@@ -67,7 +67,7 @@
 [1063](./PAT-Advanced/set/1063%20Set%20Similarity%20(25%20分)/README.md)	|	Set Similarity	|	25	|	10346	|	26036	|	0.4	|	√ set
 [1064](./PAT-Advanced/二叉查找树/1064%20Complete%20Binary Search%20Tree%20(30%20分)/README.md)	|	Complete Binary Search Tree	|	30	|	9410	|	15979	|	0.59	|	√ 二叉查找树
 [1065](./PAT-Advanced/简单模拟/1065%20A+B%20and%20C%20(64bit)%20(20%20分)/README.md)	|	A+B and C (64bit)	|	20	|	15195	|	57923	|	0.26	|	√ 简单模拟
-1066	|	Root of AVL Tree	|	25	|	9212	|	21235	|	0.43	|	
+[1066](./PAT-Advanced/平衡二叉树(AVL)/1066%20Root%20of%20AVL%20Tree%20(25%20分)/README.md)	|	Root of AVL Tree	|	25	|	9212	|	21235	|	0.43	|	√ 平衡二叉树(AVL)
 [1067](./PAT-Advanced/贪心/1067%20Sort%20with%20Swap(0,%20i)%20(25%20分)/README.md)	|	Sort with Swap(0, i)	|	25	|	9139	|	33519	|	0.27	|	√ 贪心
 1068	|	Find More Coins	|	30	|	6054	|	23064	|	0.26	|	
 [1069](./PAT-Advanced/简单数学/1069%20The%20Black%20Hole%20of%20Numbers%20(20%20分)/README.md) 	|	The Black Hole of Numbers	|	20	|	9051	|	29205	|	0.31	|	√ 简单数学
@@ -108,7 +108,7 @@
 [1104](./PAT-Advanced/简单数学/1104%20Sum%20of%20Number%20Segments%20(20%20分)/README.md) 	|	Sum of Number Segments	|	20	|	9772	|	41726	|	0.23	|	√ 简单数学
 1105	|	Spiral Matrix	|	25	|	5939	|	18564	|	0.32	|	
 [1106](./PAT-Advanced/树的遍历/1106%20Lowest%20Price%20in%20Supply%20Chain%20(25%20分)/README.md)	|	Lowest Price in Supply Chain	|	25	|	8728	|	20794	|	0.42	|	√ 树的遍历
-1107	|	Social Clusters	|	30	|	11696	|	30360	|	0.39	|	
+[1107](./PAT-Advanced/并查集/1107%20Social%20Clusters%20(30%20分)/README.md)	|	Social Clusters	|	30	|	11696	|	30360	|	0.39	|	√ 并查集
 1108	|	Finding Average	|	20	|	7195	|	27942	|	0.26	|	
 1109	|	Group Photo	|	25	|	5237	|	14498	|	0.36	|	
 1110	|	Complete Binary Tree	|	25	|	6956	|	26793	|	0.26	|	
