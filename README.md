@@ -14,7 +14,7 @@
 [1010](./PAT-Advanced/二分/1010~Radix~(25~分)/README.md) |	Radix	|	25	|	16082	|	140876	|	0.11	|	√ 二分
 [1011](./PAT-Advanced/查找元素/1011%20World%20Cup%20Betting%20(20%20分)/README.md) 	|	World Cup Betting	|	20	|	17407	|	32452	|	0.54	|	√ 查找元素
 [1012](./PAT-Advanced/排序/1012%20The%20Best%20Rank%20(25%20分)/README.md) |	The Best Rank	|	25	|	16945	|	65510	|	0.26	|	√ 排序
-1013	|	Battle Over Cities	|	25	|	19026	|	58634	|	0.32	|	
+[1013](./PAT-Advanced/图的遍历/1013%20Battle%20Over%20Cities%20(25%20分)/README.md)	|	Battle Over Cities	|	25	|	19026	|	58634	|	0.32	|	√ 图的遍历
 1014	|	Waiting in Line	|	30	|	9028	|	41881	|	0.22	|	
 [1015](./PAT-Advanced/素数/1015%20Reversible%20Primes%20(20%20分)/README.md) |	Reversible Primes	|	20	|	14530	|	54861	|	0.26	|	√ 素数
 [1016](./PAT-Advanced/排序/1016%20Phone%20Bills%20(25%20分)/README.md)	|	Phone Bills	|	25	|	10878	|	49020	|	0.22	|	√ 排序
@@ -22,7 +22,7 @@
 1018	|	Public Bike Management	|	30	|	11990	|	48158	|	0.25	|	
 [1019](./PAT-Advanced/进制转换/1019%20General%20Palindromic%20Number%20(20%20分)/README.md) |	General Palindromic Number	|	20	|	14114	|	38742	|	0.36	|	√ 进制转换
 [1020](./PAT-Advanced/二叉树的遍历/1020%20Tree%20Traversals%20(25%20分)/README.md)	|	Tree Traversals	|	25	|	17904	|	37608	|	0.48	|	√ 二叉树的遍历
-1021	|	Deepest Root	|	25	|	12853	|	47688	|	0.27	|	
+[1021](./PAT-Advanced/图的遍历/1021%20Deepest%20Root%20(25%20分)/README.md)	|	Deepest Root	|	25	|	12853	|	47688	|	0.27	|	√ 图的遍历
 [1022](./PAT-Advanced/map/1022%20Digital%20Library%20(30%20分)/README.md)	|	Digital Library	|	30	|	11594	|	36262	|	0.32	|	√ map
 [1023](./PAT-Advanced/大整数运算/1024%20Have%20Fun%20with%20Numbers%20(20%20分)/README.md)	|	Have Fun with Numbers	|	20	|	11286	|	35771	|	0.32	|	√ 大整数运算
 [1024](./PAT-Advanced/大整数运算/1024%20Palindromic%20Number%20(25%20分)/README.md)	|	Palindromic Number	|	25	|	10148	|	34570	|	0.29	|	√ 大整数运算
@@ -35,7 +35,7 @@
 [1031](./PAT-Advanced/图形输出/1031%20Hello%20World%20for%20U%20(20%20分)/README.md)	|	Hello World for U	|	20	|	12295	|	31417	|	0.39	|	√ 图形输出
 [1032](./PAT-Advanced/链表处理/1032%20Sharing%20(25%20分)/README.md)	|	Sharing	|	25	|	13574	|	49795	|	0.27	|	√ 链表处理
 [1033](./PAT-Advanced/贪心/1033%20To%20Fill%20or%20Not%20to%20Fill%20(25%20分)/README.md) |	To Fill or Not to Fill	|	25	|	9307	|	31486	|	0.3	|	√ 贪心
-1034	|	Head of a Gang	|	30	|	13459	|	43920	|	0.31	|	
+[1034](./PAT-Advanced/图的遍历/1034%20Head%20of%20a%20Gang%20(30%20分)/README.md)	|	Head of a Gang	|	30	|	13459	|	43920	|	0.31	|	√ 图的遍历
 [1035](./PAT-Advanced/字符串处理/1035%20Password%20(20%20分)/README.md)	|	Password	|	20	|	11663	|	38049	|	0.31	|	√ 字符串处理
 [1036](./PAT-Advanced/查找元素/1036%20Boys%20vs%20Girls%20(25%20分)/README.md) |	Boys vs Girls	|	25	|	12115	|	27991	|	0.43	|	√ 查找元素
 [1037](./PAT-Advanced/贪心/1037%20Magic%20Coupon%20(25%20分)/README.md) |	Magic Coupon	|	25	|	9829	|	25484	|	0.39	|	√ 贪心
@@ -77,7 +77,7 @@
 1073	|	Scientific Notation	|	20	|	8085	|	23634	|	0.34	|	
 [1074](./PAT-Advanced/链表处理/1074%20Reversing%20Linked%20List%20(25%20分)/README.md)	|	Reversing Linked List	|	25	|	8631	|	30006	|	0.29	|	√ 链表处理
 [1075](./PAT-Advanced/排序/1075%20PAT%20Judge%20(25%20分)/README.md) |	PAT Judge	|	25	|	8700	|	42543	|	0.2	|	√ 排序
-1076	|	Forwards on Weibo	|	30	|	11637	|	31091	|	0.37	|	
+[1076](./PAT-Advanced/图的遍历/1076%20Forwards%20on%20Weibo%20(30%20分)/README.md)	|	Forwards on Weibo	|	30	|	11637	|	31091	|	0.37	|	√ 图的遍历
 [1077](./PAT-Advanced/字符串处理/1077%20Kuchiguse%20(20%20分)/README.md) |	Kuchiguse	|	20	|	10515	|	47245	|	0.22	|	√ 字符串处理
 [1078](./PAT-Advanced/素数/1078%20Hashing%20(25%20分)/README.md) 	|	Hashing	|	25	|	9081	|	37171	|	0.24	|	√ 素数
 [1079](./PAT-Advanced/树的遍历/1079%20Total%20Sales%20of%20Supply%20Chain%20(25%20分)/README.md)	|	Total Sales of Supply Chain	|	25	|	9522	|	24198	|	0.39	|	√ 树的遍历
