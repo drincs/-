@@ -4,7 +4,7 @@
 :-----------|:-----------|:-----------|:-----------|:-----------|:-----------|:-----------
 [1001](./PAT-Advanced/字符串处理/1001%20A+B%20Format%20(20%20分)/README.md)	|	A+B Format	|	20	|	39651	|	155031	|	0.26	|	√ 字符串处理
 [1002](./PAT-Advanced/简单模拟/1002%20A+B%20for%20Polynomials%20(25%20分)/README.md)	|	A+B for Polynomials	|	25	|	32176	|	153960	|	0.21	|	√ 简单模拟
-1003	|	Emergency	|	25	|	28995	|	100078	|	0.29	|	
+[1003](./PAT-Advanced/最短路径/1003%20Emergency%20(25%20分)/README.md)	|	Emergency	|	25	|	28995	|	100078	|	0.29	|	√ 最短路径
 [1004](./PAT-Advanced/树的遍历/1004%20Counting%20Leaves%20(30%20分)/README.md)	|	Counting Leaves	|	30	|	20043	|	57223	|	0.35	|	√ 树的遍历
 [1005](./PAT-Advanced/字符串处理/1005%20Spell%20It%20Right%20(20%20分)/README.md)	|	Spell It Right	|	20	|	20716	|	59158	|	0.35	|	√ 字符串处理
 [1006](./PAT-Advanced/查找元素/1006%20Sign%20In%20and%20Sign%20Out%20(25%20分)/README.md) |	Sign In and Sign Out	|	25	|	20481	|	44813	|	0.46	|	√ 查找元素
