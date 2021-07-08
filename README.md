@@ -4,7 +4,7 @@
 :-----------|:-----------|:-----------|:-----------|:-----------|:-----------|:-----------
 [1001](./PAT-Advanced/字符串处理/1001%20A+B%20Format%20(20%20分)/README.md)	|	A+B Format	|	20	|	39651	|	155031	|	0.26	|	√ 字符串处理
 [1002](./PAT-Advanced/简单模拟/1002%20A+B%20for%20Polynomials%20(25%20分)/README.md)	|	A+B for Polynomials	|	25	|	32176	|	153960	|	0.21	|	√ 简单模拟
-[1003](./PAT-Advanced/最短路径/1003%20Emergency%20(25%20分)/README.md)	|	Emergency	|	25	|	28995	|	100078	|	0.29	|	√ 最短路径
+[1003](./PAT-Advanced/最短路径/1003%20Emergency%20(25%20分)/README.md)	|	Emergency	|	25	|	28995	|	100078	|	0.29	|	√ 最短路径(Dijkstra)
 [1004](./PAT-Advanced/树的遍历/1004%20Counting%20Leaves%20(30%20分)/README.md)	|	Counting Leaves	|	30	|	20043	|	57223	|	0.35	|	√ 树的遍历
 [1005](./PAT-Advanced/字符串处理/1005%20Spell%20It%20Right%20(20%20分)/README.md)	|	Spell It Right	|	20	|	20716	|	59158	|	0.35	|	√ 字符串处理
 [1006](./PAT-Advanced/查找元素/1006%20Sign%20In%20and%20Sign%20Out%20(25%20分)/README.md) |	Sign In and Sign Out	|	25	|	20481	|	44813	|	0.46	|	√ 查找元素
@@ -19,7 +19,7 @@
 [1015](./PAT-Advanced/素数/1015%20Reversible%20Primes%20(20%20分)/README.md) |	Reversible Primes	|	20	|	14530	|	54861	|	0.26	|	√ 素数
 [1016](./PAT-Advanced/排序/1016%20Phone%20Bills%20(25%20分)/README.md)	|	Phone Bills	|	25	|	10878	|	49020	|	0.22	|	√ 排序
 1017	|	Queueing at Bank	|	25	|	8390	|	33640	|	0.25	|	
-1018	|	Public Bike Management	|	30	|	11990	|	48158	|	0.25	|	
+[1018](./PAT-Advanced/最短路径/1018%20Public%20Bike%20Management%20(30%20分)/README.md) 	|	Public Bike Management	|	30	|	11990	|	48158	|	0.25	|	√ 最短路径
 [1019](./PAT-Advanced/进制转换/1019%20General%20Palindromic%20Number%20(20%20分)/README.md) |	General Palindromic Number	|	20	|	14114	|	38742	|	0.36	|	√ 进制转换
 [1020](./PAT-Advanced/二叉树的遍历/1020%20Tree%20Traversals%20(25%20分)/README.md)	|	Tree Traversals	|	25	|	17904	|	37608	|	0.48	|	√ 二叉树的遍历
 [1021](./PAT-Advanced/图的遍历/1021%20Deepest%20Root%20(25%20分)/README.md)	|	Deepest Root	|	25	|	12853	|	47688	|	0.27	|	√ 图的遍历
@@ -31,7 +31,7 @@
 [1027](./PAT-Advanced/进制转换/1027%20Colors%20in%20Mars%20(20%20分)/README.md)	|	Colors in Mars	|	20	|	12695	|	25690	|	0.49	|	√ 进制转换
 [1028](./PAT-Advanced/排序/1028%20List%20Sorting%20(25%20分)/README.md) |	List Sorting	|	25	|	11900	|	34105	|	0.35	|	√ 排序
 [1029](./PAT-Advanced/Two%20Pointers/1029%20Median%20(25%20分)/README.md)	|	Median	|	25	|	12039	|	73811	|	0.16	|	√ Two Pointers
-1030	|	Travel Plan	|	30	|	14892	|	33872	|	0.44	|	
+[1030](./PAT-Advanced/最短路径/1030%20Travel%20Plan%20(30%20分)/README.md)	|	Travel Plan	|	30	|	14892	|	33872	|	0.44	|	√ 最短路径(Dijkstra)
 [1031](./PAT-Advanced/图形输出/1031%20Hello%20World%20for%20U%20(20%20分)/README.md)	|	Hello World for U	|	20	|	12295	|	31417	|	0.39	|	√ 图形输出
 [1032](./PAT-Advanced/链表处理/1032%20Sharing%20(25%20分)/README.md)	|	Sharing	|	25	|	13574	|	49795	|	0.27	|	√ 链表处理
 [1033](./PAT-Advanced/贪心/1033%20To%20Fill%20or%20Not%20to%20Fill%20(25%20分)/README.md) |	To Fill or Not to Fill	|	25	|	9307	|	31486	|	0.3	|	√ 贪心
