@@ -73,7 +73,7 @@
 [1069](./PAT-Advanced/简单数学/1069%20The%20Black%20Hole%20of%20Numbers%20(20%20分)/README.md) 	|	The Black Hole of Numbers	|	20	|	9051	|	29205	|	0.31	|	√ 简单数学
 [1070](./PAT-Advanced/贪心/1070%20Mooncake%20(25%20分)/README.md)	|	Mooncake	|	25	|	7489	|	21683	|	0.35	|	√ 贪心
 [1071](./PAT-Advanced/map/1071%20Speech%20Patterns%20(25%20分)/README.md)	|	Speech Patterns	|	25	|	9739	|	27478	|	0.35	|	√ map
-1072	|	Gas Station	|	30	|	9018	|	37996	|	0.24	|	
+[1072](./PAT-Advanced/最短路径/1072%20Gas%20Station%20(30%20分)/README.md)	|	Gas Station	|	30	|	9018	|	37996	|	0.24	|	√ 最短路径
 1073	|	Scientific Notation	|	20	|	8085	|	23634	|	0.34	|	
 [1074](./PAT-Advanced/链表处理/1074%20Reversing%20Linked%20List%20(25%20分)/README.md)	|	Reversing Linked List	|	25	|	8631	|	30006	|	0.29	|	√ 链表处理
 [1075](./PAT-Advanced/排序/1075%20PAT%20Judge%20(25%20分)/README.md) |	PAT Judge	|	25	|	8700	|	42543	|	0.2	|	√ 排序
