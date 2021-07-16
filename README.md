@@ -8,7 +8,7 @@
 [1004](./PAT-Advanced/树的遍历/1004%20Counting%20Leaves%20(30%20分)/README.md)	|	Counting Leaves	|	30	|	20043	|	57223	|	0.35	|	√ 树的遍历
 [1005](./PAT-Advanced/字符串处理/1005%20Spell%20It%20Right%20(20%20分)/README.md)	|	Spell It Right	|	20	|	20716	|	59158	|	0.35	|	√ 字符串处理
 [1006](./PAT-Advanced/查找元素/1006%20Sign%20In%20and%20Sign%20Out%20(25%20分)/README.md) |	Sign In and Sign Out	|	25	|	20481	|	44813	|	0.46	|	√ 查找元素
-1007	|	Maximum Subsequence Sum	|	25	|	18145	|	94400	|	0.19	|	
+[1007](./PAT-Advanced/动态规划/1007%20Maximum%20Subsequence%20Sum%20(25%20分)/README.md)	|	Maximum Subsequence Sum	|	25	|	18145	|	94400	|	0.19	|	√ 动态规划
 [1008](./PAT-Advanced/简单数学/1008%20Elevator%20(20%20分)/README.md) |	Elevator	|	20	|	16694	|	28027	|	0.6	|	√ 简单数学
 [1009](./PAT-Advanced/简单模拟/1009%20Product%20of%20Polynomials%20(25%20分)/README.md) |	Product of Polynomials	|	25	|	18950	|	66230	|	0.29	|	√ 简单模拟
 [1010](./PAT-Advanced/二分/1010~Radix~(25~分)/README.md) |	Radix	|	25	|	16082	|	140876	|	0.11	|	√ 二分
@@ -88,7 +88,7 @@
 [1084](./PAT-Advanced/散列/1084%20Broken%20Keyboard%20(20%20分)/README.md)|	Broken Keyboard	|	20	|	8989	|	20573	|	0.44	|	√ 散列
 [1085](./PAT-Advanced/散列/1085~Perfect~Sequence~(25~分)/README.md)	|	Perfect Sequence	|	25	|	11392	|	42889	|	0.27	|	√ 二分
 [1086](./PAT-Advanced/二叉树的遍历/1086%20Tree%20Traversals%20Again%20(25%20分)/README.md)	|	Tree Traversals Again	|	25	|	10433	|	23497	|	0.44	|	√ 二叉树的遍历
-1087	|	All Roads Lead to Rome	|	30	|	9136	|	25760	|	0.35	|	
+[1087](./PAT-Advanced/最短路径/1087%20All%20Roads%20Lead%20to%20Rome%20(30%20分)/README.md)	|	All Roads Lead to Rome	|	30	|	9136	|	25760	|	0.35	|	√ 最短路径
 [1088](./PAT-Advanced/分数的四则运算/1088%20Rational%20Arithmetic%20(20%20分)/README.md) |	Rational Arithmetic	|	20	|	7054	|	22784	|	0.31	|	√ 分数的四则运算
 [1089](./PAT-Advanced/Two%20Pointers/1089%20Insert%20or%20Merge%20(25%20分)/README.md) |	Insert or Merge	|	25	|	8040	|	28736	|	0.28	|	√ Two Pointers
 [1090](./PAT-Advanced/树的遍历/1090%20Highest%20Price%20in%20Supply%20Chain%20(25%20分)/README.md)	|	Highest Price in Supply Chain	|	25	|	8889	|	22001	|	0.4	|	√ 树的遍历
