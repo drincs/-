@@ -46,7 +46,7 @@
 [1042](./PAT-Advanced/简单模拟/1042%20Shuffling%20Machine%20(20%20分)/README.md)	|	Shuffling Machine	|	20	|	13748	|	32865	|	0.42	|	√ 简单模拟
 [1043](./PAT-Advanced/二叉查找树/1043%20Is%20It%20a%20Binary%20Search%20Tree%20(25%20分)/README.md) 	|	Is It a Binary Search Tree	|	25	|	11898	|	33583	|	0.35	|	√ 二叉查找树
 [1044](./PAT-Advanced/二分/1044%20Shopping%20in%20Mars%20(25%20分)/README.md) |	Shopping in Mars	|	25	|	9980	|	32908	|	0.3	|	√ 二分
-1045	|	Favorite Color Stripe	|	30	|	9356	|	25310	|	0.37	|	
+[1045](./PAT-Advanced/动态规划/1045%20Favorite%20Color%20Stripe%20(30%20分)/README.md)	|	Favorite Color Stripe	|	30	|	9356	|	25310	|	0.37	|	√ 动态规划(最长不下降子序列)
 [1046](./PAT-Advanced/简单模拟/1046%20Shortest%20Distance%20(20%20分)/README.md)	|	Shortest Distance	|	20	|	13323	|	45172	|	0.29	|	√ 简单模拟
 [1047](./PAT-Advanced/vector/1047%20Student%20List%20for%20Course%20(25%20分)/README.md) |	Student List for Course	|	25	|	10773	|	39267	|	0.27	|	√ vector
 [1048](./PAT-Advanced/散列/1048%20Find%20Coins%20(25%20分)/README.md)	|	Find Coins	|	25	|	14820	|	48482	|	0.31	|	√ 散列
