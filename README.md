@@ -69,7 +69,7 @@
 [1065](./PAT-Advanced/简单模拟/1065%20A+B%20and%20C%20(64bit)%20(20%20分)/README.md)	|	A+B and C (64bit)	|	20	|	15195	|	57923	|	0.26	|	√ 简单模拟
 [1066](./PAT-Advanced/平衡二叉树(AVL)/1066%20Root%20of%20AVL%20Tree%20(25%20分)/README.md)	|	Root of AVL Tree	|	25	|	9212	|	21235	|	0.43	|	√ 平衡二叉树(AVL)
 [1067](./PAT-Advanced/贪心/1067%20Sort%20with%20Swap(0,%20i)%20(25%20分)/README.md)	|	Sort with Swap(0, i)	|	25	|	9139	|	33519	|	0.27	|	√ 贪心
-1068	|	Find More Coins	|	30	|	6054	|	23064	|	0.26	|	
+[1068](./PAT-Advanced/动态规划/1068%20Find%20More%20Coins%20(30%20分)/README.md)	|	Find More Coins	|	30	|	6054	|	23064	|	0.26	|	√ 动态规划(背包问题)
 [1069](./PAT-Advanced/简单数学/1069%20The%20Black%20Hole%20of%20Numbers%20(20%20分)/README.md) 	|	The Black Hole of Numbers	|	20	|	9051	|	29205	|	0.31	|	√ 简单数学
 [1070](./PAT-Advanced/贪心/1070%20Mooncake%20(25%20分)/README.md)	|	Mooncake	|	25	|	7489	|	21683	|	0.35	|	√ 贪心
 [1071](./PAT-Advanced/map/1071%20Speech%20Patterns%20(25%20分)/README.md)	|	Speech Patterns	|	25	|	9739	|	27478	|	0.35	|	√ map
