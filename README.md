@@ -15,7 +15,7 @@
 [1011](./PAT-Advanced/查找元素/1011%20World%20Cup%20Betting%20(20%20分)/README.md) 	|	World Cup Betting	|	20	|	17407	|	32452	|	0.54	|	√ 查找元素
 [1012](./PAT-Advanced/排序/1012%20The%20Best%20Rank%20(25%20分)/README.md) |	The Best Rank	|	25	|	16945	|	65510	|	0.26	|	√ 排序
 [1013](./PAT-Advanced/图的遍历/1013%20Battle%20Over%20Cities%20(25%20分)/README.md)	|	Battle Over Cities	|	25	|	19026	|	58634	|	0.32	|	√ 图的遍历
-1014	|	Waiting in Line	|	30	|	9028	|	41881	|	0.22	|	
+[1014](./PAT-Advanced/快乐模拟/1014%20Waiting%20in%20Line%20(30%20分)/README.md)	|	Waiting in Line	|	30	|	9028	|	41881	|	0.22	|	√ 快乐模拟
 [1015](./PAT-Advanced/素数/1015%20Reversible%20Primes%20(20%20分)/README.md) |	Reversible Primes	|	20	|	14530	|	54861	|	0.26	|	√ 素数
 [1016](./PAT-Advanced/排序/1016%20Phone%20Bills%20(25%20分)/README.md)	|	Phone Bills	|	25	|	10878	|	49020	|	0.22	|	√ 排序
 [1017](./PAT-Advanced/快乐模拟/1017%20Queueing%20at%20Bank%20(25%20分)/README.md) 	|	Queueing at Bank	|	25	|	8390	|	33640	|	0.25	|	√ 快乐模拟
