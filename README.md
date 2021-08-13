@@ -27,7 +27,7 @@
 [1023](./PAT-Advanced/大整数运算/1024%20Have%20Fun%20with%20Numbers%20(20%20分)/README.md)	|	Have Fun with Numbers	|	20	|	11286	|	35771	|	0.32	|	√ 大整数运算
 [1024](./PAT-Advanced/大整数运算/1024%20Palindromic%20Number%20(25%20分)/README.md)	|	Palindromic Number	|	25	|	10148	|	34570	|	0.29	|	√ 大整数运算
 [1025](./PAT-Advanced/排序/1025%20PAT%20Ranking%20(25%20分)/README.md) |	PAT Ranking	|	25	|	18030	|	65164	|	0.28	|	√ 排序
-1026	|	Table Tennis	|	30	|	4806	|	28754	|	0.17	|	
+[1026](./PAT-Advanced/快乐模拟/1026%20Table%20Tennis%20(30%20分)/README.md) 	|	Table Tennis	|	30	|	4806	|	28754	|	0.17	|	√ 快乐模拟
 [1027](./PAT-Advanced/进制转换/1027%20Colors%20in%20Mars%20(20%20分)/README.md)	|	Colors in Mars	|	20	|	12695	|	25690	|	0.49	|	√ 进制转换
 [1028](./PAT-Advanced/排序/1028%20List%20Sorting%20(25%20分)/README.md) |	List Sorting	|	25	|	11900	|	34105	|	0.35	|	√ 排序
 [1029](./PAT-Advanced/Two%20Pointers/1029%20Median%20(25%20分)/README.md)	|	Median	|	25	|	12039	|	73811	|	0.16	|	√ Two Pointers
