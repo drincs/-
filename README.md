@@ -134,8 +134,8 @@
 1130	|	Infix Expression	|	25	|	5937	|	12305	|	0.48	|	
 1131	|	Subway Map	|	30	|	6520	|	24837	|	0.26	|	
 1132	|	Cut Integer	|	20	|	6551	|	21269	|	0.31	|	
-1133	|	Splitting A Linked List	|	25	|	5983	|	17839	|	0.34	|	
-1134	|	Vertex Cover	|	25	|	6318	|	13240	|	0.48	|	
+[1133](./PAT-Advanced/练习/1133%20Splitting%20A%20Linked%20List%20(25%20分)/README.md)|	Splitting A Linked List	|	25	|	5983	|	17839	|	0.34	|	√ 练习
+[1134](./PAT-Advanced/练习/1134%20Vertex%20Cover%20(25%20分)/README.md)|	Vertex Cover	|	25	|	6318	|	13240	|	0.48	|	√ 练习
 1135	|	Is It A Red-Black Tree	|	30	|	8136	|	28690	|	0.28	|	
 1136	|	A Delayed Palindrome	|	20	|	6135	|	20139	|	0.3	|	
 1137	|	Final Grading	|	25	|	6159	|	22175	|	0.28	|	
