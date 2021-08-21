@@ -136,7 +136,7 @@
 1132	|	Cut Integer	|	20	|	6551	|	21269	|	0.31	|	
 [1133](./PAT-Advanced/练习/1133%20Splitting%20A%20Linked%20List%20(25%20分)/README.md)|	Splitting A Linked List	|	25	|	5983	|	17839	|	0.34	|	√ 练习
 [1134](./PAT-Advanced/练习/1134%20Vertex%20Cover%20(25%20分)/README.md)|	Vertex Cover	|	25	|	6318	|	13240	|	0.48	|	√ 练习
-1135	|	Is It A Red-Black Tree	|	30	|	8136	|	28690	|	0.28	|	
+[1135](./PAT-Advanced/练习/1135%20Is%20It%20A%20Red-Black%20Tree%20(30%20分)/README.md)	|	Is It A Red-Black Tree	|	30	|	8136	|	28690	|	0.28	|	√ 练习
 1136	|	A Delayed Palindrome	|	20	|	6135	|	20139	|	0.3	|	
 1137	|	Final Grading	|	25	|	6159	|	22175	|	0.28	|	
 1138	|	Postorder Traversal	|	25	|	8923	|	19743	|	0.45	|	
