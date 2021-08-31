@@ -1,68 +1,48 @@
 #include <iostream>
 #include <vector>
-#include <algorithm>
 #include <unordered_map>
-#include <set>
 using namespace std;
-struct node
-{
-    node *lchild = NULL;
-    node *rchild = NULL;
-    int key;
-    node(int key)
-    {
-        this->key = key;
-    }
-};
-unordered_map<int, int> nums;
-node *root = NULL;
-void insert(node *root, int key)
-{
-    if (root == NULL)
-    {
-        root = new node(key);
-    }
-    else
-    {
-        if (root->key > key)
-        {
-            insert(root->lchild, key);
-        }
-        else
-        {
-            insert(root->rchild, key);
-        }
-    }
-}
+unordered_map<int, bool> nums;
 int main()
 {
-    int m, n;
+    int m, n, u, v, x;
     scanf("%d%d", &m, &n);
+    vector<int> p(n);
     for (int i = 0; i < n; i++)
     {
-        int key;
-        scanf("%d", &key);
-        insert(root, key);
-        nums.insert(make_pair(key, 1));
+        scanf("%d", &p[i]);
+        nums[p[i]] = true;
     }
-    while (m--)
+    for (int i = 0; i < m; i++)
     {
         int u, v;
         scanf("%d%d", &u, &v);
-        if (nums.count(u) == 0 || nums.count(v) == 0)
+        for (int j = 0; j < n; j++)
         {
-            if (nums.count(u) == 0 && nums.count(v) == 0)
+            x = p[j];
+            if ((x <= u && x >= v) || (x <= v && x >= u))
             {
-                printf("ERROR: %d and %d are not found.\n", u, v);
+                break;
             }
-            else if (nums.count(u) == 0)
+        }
+        if (nums[u] == false && nums[v] == false)
+        {
+            printf("ERROR: %d and %d are not found.\n", u, v);
+        }
+        else if (nums[u] == false || nums[v] == false)
+        {
+            printf("ERROR: %d is not found.\n", nums[u] == false ? u : v);
+        }
+        else
+        {
+            if (x == u || x == v)
             {
-                printf("ERROR: %d is not found.\n", u);
-            }else{
-                printf("ERROR: %d is not found.\n", v);
+                printf("%d is an ancestor of %d.\n", x, x == u ? v : u);
             }
-        }else{
-            
+            else
+            {
+                printf("LCA of %d and %d is %d.\n", u, v, x);
+            }
         }
     }
     system("pause");

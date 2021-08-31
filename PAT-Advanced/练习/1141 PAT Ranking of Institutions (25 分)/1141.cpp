@@ -3,16 +3,18 @@
 #include <math.h>
 #include <algorithm>
 #include <unordered_map>
-#include <string.h>
 #include <string>
-#include <iomanip>
+#include <string.h>
+#include <set>
 using namespace std;
 struct school
 {
     string id;
-    double tws = 0;
+    int tws = 0;
+    double dtws = 0;
     int ns = 0;
     int rank;
+    set<int> stu;
     school(string id)
     {
         this->id = id;
@@ -20,15 +22,17 @@ struct school
 };
 vector<school> all;
 unordered_map<string, int> getId;
+
+unordered_map<string, int> getSid;
 bool cmp(school &a, school &b)
 {
     if (a.tws == b.tws)
     {
-        if (a.ns == b.ns)
+        if (a.stu.size() == b.stu.size())
         {
             return a.id < b.id;
         }
-        return a.ns < b.ns;
+        return a.stu.size() < b.stu.size();
     }
     return a.tws > b.tws;
 }
@@ -36,12 +40,18 @@ int main()
 {
     int n;
     int count = 0;
+    int snum;
+    cin >> n;
     for (int i = 0; i < n; i++)
     {
         string sid, id;
-        int score;
+        double score;
         cin >> sid >> score >> id;
-        id = tolower(id);
+        for (int j = 0; j < id.length(); j++)
+        {
+            if (id[j] >= 'A' && id[j] <= 'Z')
+                id[j] = id[j] - 'A' + 'a';
+        }
         if (getId.count(id) == 0)
         {
             getId.insert(make_pair(id, count));
@@ -51,32 +61,39 @@ int main()
         int iid = getId[id];
         if (sid[0] == 'A')
         {
-            all[iid].tws += score;
+            all[iid].dtws += score * 1.0;
         }
         else if (sid[0] == 'B')
         {
-            all[iid].tws += score * 1.0 / 1.5;
+            all[iid].dtws += score * 1.0 / 1.5;
         }
-        else
+        else if (sid[0] == 'T')
         {
-            all[iid].tws += score * 1.5;
+            all[iid].dtws += score * 1.5;
         }
-        all[iid].ns++;
+        if (getSid.count(sid) == 0)
+        {
+            getSid.insert(make_pair(sid, snum++));
+        }
+
+        all[iid].stu.insert(getSid[sid]);
+    }
+    for (int i = 0; i < count; i++)
+    {
+        all[i].tws = (int)all[i].dtws;
     }
     sort(all.begin(), all.end(), cmp);
     int rank = 1;
-    double now = all[0].tws;
-    count << count << endl;
-    for (int i = 0; i < count;)
+    int now = 0;
+    if (count > 0)
+        now = all[0].tws;
+    cout << count << endl;
+    for (int i = 0; i < count; i++)
     {
-        int j = i;
-        while (now == all[j].tws)
-        {
-            cout << rank << " " << all[j].id << " " << all[i].tws << " " << all[i].ns << endl;
-            j++;
-        }
-        now = all[j].tws;
-        i = j;
+        if (now != all[i].tws)
+            rank = i + 1;
+        now = all[i].tws;
+        cout << rank << " " << all[i].id << " " << now << " " << all[i].stu.size() << endl;
     }
     system("pause");
     return 0;
