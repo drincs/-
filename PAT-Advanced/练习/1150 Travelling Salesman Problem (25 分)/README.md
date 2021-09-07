@@ -44,11 +44,12 @@ Path 6: 13 (Not a TS cycle)
 Path 7: NA (Not a TS cycle)
 Shortest Dist(4) = 8
 ```
-## 完成时间
-
 ## 题目大意
 ```
+最短循环路线
 ```
 ## 解题思路
 ```
+简单模拟
+n==0时输出NA
 ```

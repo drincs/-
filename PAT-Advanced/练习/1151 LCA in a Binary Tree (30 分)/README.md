@@ -26,11 +26,13 @@ ERROR: 12 and -3 are not found.
 ERROR: 0 is not found.
 ERROR: 99 and 99 are not found.
 ```
-## 完成时间
-
 ## 题目大意
 ```
+结点uv的公共祖先
+给定中序及先序序列
+保证树唯一
 ```
 ## 解题思路
 ```
+如果uv在根结点的左边，uv的LCA在根的左子树里找，如果uv在两边，当前子树的根结点就是uv的最近公共祖先
 ```
