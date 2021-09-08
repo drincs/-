@@ -65,7 +65,7 @@
 [1061](./PAT-Advanced/字符串处理/1061%20Dating%20(20%20分)/README.md)	|	Dating	|	20	|	8775	|	37958	|	0.23	|	√ 字符串处理
 [1062](./PAT-Advanced/排序/1062%20Talent%20and%20Virtue%20(25%20分)/README.md)	|	Talent and Virtue	|	25	|	9256	|	26056	|	0.36	|	√ 排序
 [1063](./PAT-Advanced/set/1063%20Set%20Similarity%20(25%20分)/README.md)	|	Set Similarity	|	25	|	10346	|	26036	|	0.4	|	√ set
-[1064](./PAT-Advanced/二叉查找树/1064%20Complete%20Binary Search%20Tree%20(30%20分)/README.md)	|	Complete Binary Search Tree	|	30	|	9410	|	15979	|	0.59	|	√ 二叉查找树
+[1064](./PAT-Advanced/二叉查找树/1064%20Complete%20Binary%20Search%20Tree%20(30%20分)/README.md)  	|	Complete Binary Search Tree	|	30	|	9410	|	15979	|	0.59	|	√ 二叉查找树
 [1065](./PAT-Advanced/简单模拟/1065%20A+B%20and%20C%20(64bit)%20(20%20分)/README.md)	|	A+B and C (64bit)	|	20	|	15195	|	57923	|	0.26	|	√ 简单模拟
 [1066](./PAT-Advanced/平衡二叉树(AVL)/1066%20Root%20of%20AVL%20Tree%20(25%20分)/README.md)	|	Root of AVL Tree	|	25	|	9212	|	21235	|	0.43	|	√ 平衡二叉树(AVL)
 [1067](./PAT-Advanced/贪心/1067%20Sort%20with%20Swap(0,%20i)%20(25%20分)/README.md)	|	Sort with Swap(0, i)	|	25	|	9139	|	33519	|	0.27	|	√ 贪心
