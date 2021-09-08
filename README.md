@@ -137,22 +137,22 @@
 [1133](./PAT-Advanced/练习/1133%20Splitting%20A%20Linked%20List%20(25%20分)/README.md)|	Splitting A Linked List	|	25	|	5983	|	17839	|	0.34	|	√ 练习
 [1134](./PAT-Advanced/练习/1134%20Vertex%20Cover%20(25%20分)/README.md)|	Vertex Cover	|	25	|	6318	|	13240	|	0.48	|	√ 练习
 [1135](./PAT-Advanced/练习/1135%20Is%20It%20A%20Red-Black%20Tree%20(30%20分)/README.md)	|	Is It A Red-Black Tree	|	30	|	8136	|	28690	|	0.28	|	√ 练习
-1136	|	A Delayed Palindrome	|	20	|	6135	|	20139	|	0.3	|	
-1137	|	Final Grading	|	25	|	6159	|	22175	|	0.28	|	
-1138	|	Postorder Traversal	|	25	|	8923	|	19743	|	0.45	|	
-1139	|	First Contact	|	30	|	6295	|	32216	|	0.2	|	
-1140	|	Look-and-say Sequence	|	20	|	7234	|	15345	|	0.47	|	
-1141	|	PAT Ranking of Institutions	|	25	|	7056	|	27445	|	0.26	|	
-1142	|	Maximal Clique	|	25	|	6475	|	14318	|	0.45	|	
-1143	|	Lowest Common Ancestor	|	30	|	7363	|	30002	|	0.25	|	
-1144	|	The Missing Number	|	20	|	8317	|	28327	|	0.29	|	
-1145	|	Hashing - Average Search Time	|	25	|	7850	|	24590	|	0.32	|	
-1146	|	Topological Order	|	25	|	7635	|	16941	|	0.45	|	
-1147	|	Heaps	|	30	|	7797	|	19018	|	0.41	|	
-1148	|	Werewolf - Simple Version	|	20	|	6176	|	15382	|	0.4	|	
-1149	|	Dangerous Goods Packaging	|	25	|	7572	|	19174	|	0.39	|	
-1150	|	Travelling Salesman Problem	|	25	|	6455	|	18627	|	0.35	|	
-1151	|	LCA in a Binary Tree	|	30	|	9307	|	35113	|	0.27	|	
+[1136](./PAT-Advanced/练习/1136%20A%20Delayed%20Palindrome%20(20%20分)/README.md)	|	A Delayed Palindrome	|	20	|	6135	|	20139	|	0.3	|	√ 练习
+[1137](./PAT-Advanced/练习/1137%20Final%20Grading%20(25%20分)/README.md)	|	Final Grading	|	25	|	6159	|	22175	|	0.28	|	√ 练习
+[1138](./PAT-Advanced/练习/1138%20Postorder%20Traversal%20(25%20分)/README.md)	|	Postorder Traversal	|	25	|	8923	|	19743	|	0.45	|	√ 练习
+[1139](./PAT-Advanced/练习/1139%20First%20Contact%20(30%20分)/README.md)	|	First Contact	|	30	|	6295	|	32216	|	0.2	|	√ 练习
+[1140](./PAT-Advanced/练习/1140%20Look-and-say%20Sequence%20(20%20分)/README.md)	|	Look-and-say Sequence	|	20	|	7234	|	15345	|	0.47	|	√ 练习
+[1141](./PAT-Advanced/练习/1141%20PAT%20Ranking%20of%20Institutions%20(25%20分)/README.md)	|	PAT Ranking of Institutions	|	25	|	7056	|	27445	|	0.26	|	√ 练习
+[1142](./PAT-Advanced/练习/1142%20Maximal%20Clique%20(25%20分)/README.md)	|	Maximal Clique	|	25	|	6475	|	14318	|	0.45	|	√ 练习
+[1143](./PAT-Advanced/练习/1143%20Lowest%20Common%20Ancestor%20(30%20分)/README.md)	|	Lowest Common Ancestor	|	30	|	7363	|	30002	|	0.25	|	√ 练习
+[1144](./PAT-Advanced/练习/1144%20The%20Missing%20Number%20(20%20分)/README.md)	|	The Missing Number	|	20	|	8317	|	28327	|	0.29	|	√ 练习
+[1145](./PAT-Advanced/练习/1145%20Hashing%20-%20Average%20Search%20Time%20(25%20分)/README.md)	|	Hashing - Average Search Time	|	25	|	7850	|	24590	|	0.32	|	√ 练习
+[1146](./PAT-Advanced/练习/1146%20Topological%20Order%20(25%20分)/README.md)	|	Topological Order	|	25	|	7635	|	16941	|	0.45	|	√ 练习
+[1147](./PAT-Advanced/练习/1147%20Heaps%20(30%20分)/README.md)	|	Heaps	|	30	|	7797	|	19018	|	0.41	|	√ 练习
+[1148](./PAT-Advanced/练习/1148%20Werewolf%20-%20Simple%20Version%20(20%20分)/README.md)	|	Werewolf - Simple Version	|	20	|	6176	|	15382	|	0.4	|	√ 练习
+[1149](./PAT-Advanced/练习/1149%20Dangerous%20Goods%20Packaging%20(25%20分)/README.md)	|	Dangerous Goods Packaging	|	25	|	7572	|	19174	|	0.39	|	√ 练习
+[1150](./PAT-Advanced/练习/1150%20Travelling%20Salesman%20Problem%20(25%20分)/README.md)	|	Travelling Salesman Problem	|	25	|	6455	|	18627	|	0.35	|	√ 练习
+[1151](./PAT-Advanced/练习/1151%20LCA%20in%20a%20Binary%20Tree%20(30%20分)/README.md)	|	LCA in a Binary Tree	|	30	|	9307	|	35113	|	0.27	|	√ 练习
 [1152](./模拟考试/1152-1155(得分92)/1152%20Google%20Recruitment%20(20%20分)/README.md)	|	Google Recruitment	|	20	|	9087	|	36887	|	0.25	|	√
 [1153](./模拟考试/1152-1155(得分92)/1153%20Decode%20Registration%20Card%20of%20PAT%20(25%20分)/README.md)	|	Decode Registration Card of PAT	|	25	|	8154	|	38307	|	0.21	|	√
 [1154](./模拟考试/1152-1155(得分92)/1154%20Vertex%20Coloring%20(25%20分)/README.md)	|	Vertex Coloring	|	25	|	7796	|	20968	|	0.37	|	√
