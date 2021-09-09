@@ -28,3 +28,20 @@ ERROR: aaa is not a legal number
 ERROR: -9999 is not a legal number
 The average of 0 numbers is Undefined
 ```
+## 题目大意
+```
+查找平均数：
+给定N个实数，计算平均值。
+输入可能非法
+合法输入[-1000,1000]
+不超过2位小数
+```
+## 解题思路
+```
+匹配合法输入字符串
+1、第一位为正负号或数字
+2、小数点前数字不得大于1000
+3、等于1000不得有小数部分
+4、小数点后仅能为2位数字
+
+```
